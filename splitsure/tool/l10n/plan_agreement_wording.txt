@@ -1,0 +1,3 @@
+# Plan cards reflect the Basic = 1 agreement limit
+freeFeatureProtectDrafts | 1 agreement document | 1 document d'accord
+proFeatureUnlimitedAgreements | Unlimited agreements | Accords illimités

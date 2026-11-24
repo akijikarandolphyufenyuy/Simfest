@@ -1,0 +1,4 @@
+continueLabel | Continue | Continuer
+done | Done | Terminé
+more | More | Plus
+currentPlanName | Current plan: {plan} | Formule actuelle : {plan} | plan

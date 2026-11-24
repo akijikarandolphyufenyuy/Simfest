@@ -1,0 +1,9 @@
+# Basic plan: first agreement document free, then 50 FCFA per agreement
+freeFeatureProtectDrafts | 1 free agreement document | 1 document d'accord gratuit
+freeFeatureAgreementFee | Each extra agreement: {amount} to preview & download | Chaque accord supplémentaire : {amount} pour l'aperçu et le téléchargement | amount
+planAgreementLimitBody | On the Basic plan your first agreement document is free; each extra one costs 50 FCFA to preview and download. Pro includes them all. | Avec la formule Basique, votre premier document d'accord est gratuit ; chaque accord supplémentaire coûte 50 FCFA pour l'aperçu et le téléchargement. Pro les inclut tous.
+previewPdfFeeSubtitle | {amount} to preview and download this agreement | {amount} pour prévisualiser et télécharger cet accord | amount
+previewPdfFirstFree | Your first agreement is free | Votre premier accord est gratuit
+previewPdfUnlocked | Paid – preview and download unlocked | Payé – aperçu et téléchargement débloqués
+finalAgreementFirstFree | Free – your first agreement | Gratuit – votre premier accord
+payToPreviewTitle | Unlock this agreement document | Débloquer ce document d'accord

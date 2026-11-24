@@ -1,0 +1,11 @@
+# Phase 6 – Protect monetization
+pdfPreviewWatermark | PREVIEW – NOT FINAL | APERÇU – NON DÉFINITIF
+previewPdf | Preview PDF | Aperçu PDF
+previewPdfSubtitle | Free draft copy (not the final agreement) | Copie de travail gratuite (pas l'accord final)
+generateFinalAgreement | Generate final agreement | Générer l'accord final
+finalAgreementFree | Included in Pro | Inclus dans Pro
+finalAgreementFee | {amount} one-time for this agreement | {amount} une seule fois pour cet accord | amount
+finalAgreementNeedsAcceptance | Available once every party has accepted. | Disponible quand toutes les parties ont accepté.
+downloadFinalAgreement | Download final agreement | Télécharger l'accord final
+finalAgreementReady | Final agreement – saved for every party | Accord final – enregistré pour chaque partie
+finalAgreementUnlockedTitle | Final agreement unlocked | Accord final débloqué

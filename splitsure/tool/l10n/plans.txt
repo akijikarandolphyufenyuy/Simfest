@@ -1,0 +1,57 @@
+# Phase 2/8 – Free/Pro plans and mobile-money payments
+proPlan | Pro | Pro
+choosePlanTitle | Choose your plan | Choisissez votre formule
+choosePlanSubtitle | Start free and upgrade whenever you're ready. | Commencez gratuitement et passez à Pro quand vous voulez.
+continueWithFree | Continue with Free | Continuer avec Gratuit
+upgradeToPro | Upgrade to Pro | Passer à Pro
+upgradeForAmount | Upgrade for {amount} | Passer à Pro pour {amount} | amount
+oneTimePayment | One-time payment | Paiement unique
+freeForever | Free forever | Gratuit pour toujours
+recommended | Recommended | Recommandé
+proActive | Pro active | Pro actif
+proActiveSince | Pro since {date} | Pro depuis le {date} | date
+youAreOnFree | You're on the Free plan | Vous êtes sur la formule Gratuite
+youAreOnPro | You're on Pro | Vous êtes sur Pro
+proUnlocksBody | Unlimited opportunity posts, unlimited final agreements, Reach promotion tools and more. | Annonces d'opportunités illimitées, accords finaux illimités, outils de promotion Reach et plus encore.
+freeFeatureProtectDrafts | Create and negotiate agreements | Créer et négocier des accords
+freeFeatureAgreementFee | Final agreement: {amount} each | Accord final : {amount} chacun | amount
+freeFeatureOnePost | 1 opportunity post | 1 annonce d'opportunité
+freeFeaturePassport | Music Passport & applications | Music Passport et candidatures
+freeFeatureProjects | Up to {count} projects | Jusqu'à {count} projets | count:int
+proFeatureUnlimitedPosts | Unlimited opportunity posts | Annonces d'opportunités illimitées
+proFeatureUnlimitedAgreements | Unlimited final agreements | Accords finaux illimités
+proFeatureReach | Reach: campaigns, captions & promo videos | Reach : campagnes, légendes et vidéos promo
+proFeatureUnlimitedProjects | Unlimited projects | Projets illimités
+proFeaturePriority | Priority visibility in the Opportunity Hub | Visibilité prioritaire dans l'Opportunity Hub
+paymentHistory | Payment history | Historique des paiements
+noPayments | No payments yet. | Aucun paiement pour l'instant.
+paymentTypePro | Pro upgrade | Passage à Pro
+paymentTypeAgreement | Final agreement | Accord final
+paymentSuccess | Successful | Réussi
+paymentCancelled | Cancelled | Annulé
+payWithMobileMoney | Pay with Mobile Money | Payer par Mobile Money
+mtnMomo | MTN Mobile Money | MTN Mobile Money
+orangeMoney | Orange Money | Orange Money
+mobileMoneyNumber | Mobile Money number | Numéro Mobile Money
+mobileMoneyNumberHint | 6XX XXX XXX | 6XX XXX XXX
+invalidCameroonPhone | Enter a valid Cameroon number (9 digits starting with 6). | Entrez un numéro camerounais valide (9 chiffres commençant par 6).
+payAmount | Pay {amount} | Payer {amount} | amount
+waitingForApproval | Waiting for your approval | En attente de votre validation
+approveOnPhone | Check your phone and approve the {amount} payment with your PIN. | Vérifiez votre téléphone et validez le paiement de {amount} avec votre code PIN. | amount
+dialToApprove | No prompt? Dial *126# (MTN) or #150*50# (Orange) to approve pending payments. | Pas de notification ? Composez *126# (MTN) ou #150*50# (Orange) pour valider les paiements en attente.
+checkingPayment | Checking payment… | Vérification du paiement…
+paymentConfirmed | Payment confirmed | Paiement confirmé
+paymentNotCompleted | Payment not completed | Paiement non finalisé
+paymentFailedBody | The payment was declined or cancelled. Nothing was charged. You can try again. | Le paiement a été refusé ou annulé. Rien n'a été débité. Vous pouvez réessayer.
+paymentStillPending | We haven't received confirmation yet. If you approved it, it will be applied automatically – check again in a moment. | Nous n'avons pas encore reçu de confirmation. Si vous l'avez validé, il sera appliqué automatiquement – revérifiez dans un instant.
+checkAgain | Check again | Revérifier
+tryAgain | Try again | Réessayer
+paymentsUnavailable | Payments are temporarily unavailable. Please try again later. | Les paiements sont temporairement indisponibles. Réessayez plus tard.
+alreadyPro | You already have Pro. | Vous avez déjà Pro.
+proWelcomeTitle | Welcome to Pro! | Bienvenue sur Pro !
+proWelcomeBody | Everything is unlocked. Enjoy unlimited posts, agreements and Reach. | Tout est débloqué. Profitez des annonces, accords et de Reach en illimité.
+securePaymentNote | Payments are processed securely by MeSomb. SplitSure never sees your PIN. | Les paiements sont traités de façon sécurisée par MeSomb. SplitSure ne voit jamais votre code PIN.
+planBadgeFree | FREE | GRATUIT
+planBadgePro | PRO | PRO
+upgrade | Upgrade | Améliorer
+reference | Reference | Référence

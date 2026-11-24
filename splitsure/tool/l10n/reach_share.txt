@@ -1,0 +1,17 @@
+# Reach: post to socials
+reachHeadlineBy | 🎵 "{title}" by {artist} is out now! | 🎵 « {title} » de {artist} est disponible ! | title,artist
+reachLinkInBio | Link in bio | Lien dans la bio
+reachPostTitle | Post to your socials | Publier sur vos réseaux
+reachPostHint | Each platform gets its own caption. On a phone, Share opens the app with the video and caption ready; on a computer the caption is copied, the video downloaded and the upload page opened. | Chaque réseau a sa propre légende. Sur téléphone, Partager ouvre l'application avec la vidéo et la légende prêtes ; sur ordinateur, la légende est copiée, la vidéo téléchargée et la page de publication ouverte.
+reachShare | Share | Partager
+reachCopyCaption | Copy caption | Copier la légende
+reachLinked | Linked | Lié
+reachOpenMyPage | Open my page | Ouvrir ma page
+reachSharedToApp | Caption copied – finish posting in the app. | Légende copiée – terminez la publication dans l'application.
+reachOpenedWeb | Caption copied. Paste it on the page that just opened (the video was downloaded if needed). | Légende copiée. Collez-la sur la page qui vient de s'ouvrir (la vidéo a été téléchargée si nécessaire).
+reachNeedsVideo | Create the promo video above first – {platform} posts need a video. | Créez d'abord la vidéo promo ci-dessus – {platform} nécessite une vidéo. | platform
+reachContentPack | Download content pack | Télécharger le kit de contenu
+reachContentPackHint | Video + a text file with every caption, to post by hand. | Vidéo + un fichier texte avec toutes les légendes, pour publier vous-même.
+reachContentPackDone | Content pack downloaded. | Kit de contenu téléchargé.
+reachRegenerate | Regenerate | Régénérer
+reachPreviewCaption | Preview caption | Aperçu de la légende

@@ -1,0 +1,2 @@
+# SplitSure's own sign-up verification code
+verifySendFailed | We couldn't send the code right now. Tap "Resend code" in a moment. | Impossible d'envoyer le code pour le moment. Touchez « Renvoyer le code » dans un instant.

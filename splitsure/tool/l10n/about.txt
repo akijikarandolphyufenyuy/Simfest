@@ -1,0 +1,22 @@
+# About SplitSure screen
+aboutTitle | About SplitSure | À propos de SplitSure
+aboutTagline | Protect your music. Promote your sound. | Protégez votre musique. Faites connaître votre son.
+aboutWhatTitle | What is SplitSure? | Qu'est-ce que SplitSure ?
+aboutWhatBody | SplitSure is the home of music collaboration. Agree on who did what and who earns what, sign it together, and keep a clear record for every song – then promote your release and grow your network. | SplitSure est la maison de la collaboration musicale. Mettez-vous d'accord sur qui a fait quoi et qui gagne quoi, signez ensemble et gardez une trace claire pour chaque titre – puis faites la promotion de votre sortie et développez votre réseau.
+aboutCameroonTitle | Made for Cameroon | Conçu pour le Cameroun
+aboutCameroonBody | SplitSure is built first and foremost for Cameroonian artists, producers, songwriters and music professionals – from Douala to Yaoundé, Bamenda, Bafoussam and beyond – so that every collaboration is fair, documented and respected. | SplitSure est conçu avant tout pour les artistes, producteurs, auteurs-compositeurs et professionnels de la musique camerounais – de Douala à Yaoundé, Bamenda, Bafoussam et au-delà – pour que chaque collaboration soit équitable, documentée et respectée.
+aboutCameroonPay | MTN Mobile Money & Orange Money | MTN Mobile Money et Orange Money
+aboutCameroonLang | English & Français | English et Français
+aboutCameroonPrice | Prices in FCFA | Prix en FCFA
+aboutFeaturesTitle | What you can do | Ce que vous pouvez faire
+aboutFeatProtect | Split agreements every collaborator signs | Des accords de partage signés par chaque collaborateur
+aboutFeatPassport | Your professional music identity | Votre identité musicale professionnelle
+aboutFeatHub | Find and post collaborations | Trouvez et publiez des collaborations
+aboutFeatReach | Promo videos and captions for your release | Vidéos promo et légendes pour votre sortie
+aboutFeatDealflow | Agree on terms before you sign | Mettez-vous d'accord avant de signer
+aboutPromiseTitle | Our promise | Notre engagement
+aboutPromiseBody | Your music stays yours. Every signature is recorded with a unique code, every version is kept, and nothing is shared publicly unless you choose to. | Votre musique reste la vôtre. Chaque signature est enregistrée avec un code unique, chaque version est conservée et rien n'est rendu public sans votre accord.
+aboutSupportTitle | Contact support | Contacter le support
+aboutSupportBody | A question, a problem or an idea? Write to us by e-mail – we usually reply within 24 hours. | Une question, un problème ou une idée ? Écrivez-nous par e-mail – nous répondons généralement sous 24 heures.
+aboutSupportCopied | E-mail address copied | Adresse e-mail copiée
+aboutMadeWithLove | Made with love in Cameroon | Fait avec amour au Cameroun

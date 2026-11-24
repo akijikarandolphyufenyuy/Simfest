@@ -1,0 +1,3 @@
+# Agreement review e-mails
+sentForReviewEmailed | Agreement sent for review. {count} collaborator(s) were e-mailed. | Accord envoyé pour examen. {count} collaborateur(s) ont reçu un e-mail. | count:int
+newVersionSentEmailed | New version sent. {count} collaborator(s) were e-mailed. | Nouvelle version envoyée. {count} collaborateur(s) ont reçu un e-mail. | count:int

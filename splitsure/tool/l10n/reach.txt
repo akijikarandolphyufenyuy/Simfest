@@ -1,0 +1,41 @@
+# Phase 7 – Reach (Pro only) + Content Studio
+reachProOnlyTitle | Reach is a Pro feature | Reach est une fonctionnalité Pro
+reachProOnlyBody | Turn every release into ready-to-post content for Instagram, TikTok, Facebook and WhatsApp. | Transformez chaque sortie en contenu prêt à publier sur Instagram, TikTok, Facebook et WhatsApp.
+reachBenefitCampaigns | Promotion campaigns for every release | Des campagnes de promotion pour chaque sortie
+reachBenefitVideo | 9:16 promo videos from your track and cover | Vidéos promo 9:16 à partir de votre titre et de votre pochette
+reachBenefitCaptions | Captions, hashtags and announcements in EN/FR | Légendes, hashtags et annonces en FR/EN
+reachBenefitBio | Artist bios written from your Music Passport | Biographies d'artiste rédigées à partir de votre Music Passport
+upgradeNowFor | Upgrade now – {amount} | Passer à Pro – {amount} | amount
+contentStudio | Content Studio | Studio de contenu
+contentStudioSubtitle | Captions, announcements and bios from your projects and Passport | Légendes, annonces et biographies à partir de vos projets et de votre Passport
+contentType | What do you want to write? | Que voulez-vous écrire ?
+contentCaption | Promo caption | Légende promo
+contentAnnouncement | Release announcement | Annonce de sortie
+contentBio | Artist biography | Biographie d'artiste
+contentProjectPromo | Project promotion | Promotion de projet
+platform | Platform | Plateforme
+sourceProject | Project or campaign | Projet ou campagne
+noSourceSelected | No project – use my Passport only | Aucun projet – utiliser seulement mon Passport
+generate | Generate | Générer
+regenerate | Another version | Autre version
+copyText | Copy | Copier
+textCopied | Copied – paste it in your app | Copié – collez-le dans votre application
+shareText | Share | Partager
+needPassportForBio | Create your Music Passport to generate a biography. | Créez votre Music Passport pour générer une biographie.
+directPublishNote | Direct publishing needs each platform's official app approval. For now, copy or share the text and post it from the platform. | La publication directe nécessite l'approbation officielle de chaque plateforme. Pour l'instant, copiez ou partagez le texte et publiez-le depuis la plateforme.
+genCaption1 | New music alert! "{title}" by {artist} is out now. {link} | Nouveau son ! « {title} » de {artist} est disponible. {link} | title,artist,link
+genCaption2 | {artist} just dropped "{title}" – press play and tell me what you think. {link} | {artist} vient de sortir « {title} » – lancez l'écoute et dites-moi ce que vous en pensez. {link} | title,artist,link
+genCaption3 | "{title}" is here. Made with love, made for you. Stream it now. {link} | « {title} » est là. Fait avec amour, fait pour vous. À écouter maintenant. {link} | title,link
+genAnnouncement1 | Big news: my new {kind} "{title}" drops {date}. Mark the date and get ready! {link} | Grande nouvelle : mon nouveau {kind} « {title} » sort le {date}. Notez la date et préparez-vous ! {link} | kind,title,date,link
+genAnnouncement2 | It's official – "{title}" by {artist} arrives {date}. Turn on notifications so you don't miss it. {link} | C'est officiel : « {title} » de {artist} arrive le {date}. Activez les notifications pour ne pas le manquer. {link} | title,artist,date,link
+genAnnouncementNoDate | Coming soon: "{title}" by {artist}. Stay tuned – the countdown starts now. {link} | Bientôt : « {title} » de {artist}. Restez connectés, le compte à rebours commence. {link} | title,artist,link
+kindSingle | single | single
+genBioIntro | {name} is a {roles}{location}. | {name} est {roles}{location}. | name,roles,location
+genBioBasedIn | , based in {place} | , basé(e) à {place} | place
+genBioExperience | With {years} years of experience, {name} works across {genres}. | Avec {years} ans d'expérience, {name} évolue dans {genres}. | years,name,genres
+genBioGenres | {name}'s sound blends {genres}. | L'univers de {name} mêle {genres}. | name,genres
+genBioCredits | Selected work: {credits}. | Réalisations : {credits}. | credits
+genBioInstruments | Plays {instruments}. | Joue {instruments}. | instruments
+genBioOpen | Open to collaborations – reach out via SplitSure. | Ouvert(e) aux collaborations – contactez-moi via SplitSure. |
+genProjectPromo | Working on "{title}"{genre}. {description} Follow the journey! | En studio sur « {title} »{genre}. {description} Suivez l'aventure ! | title,genre,description
+andWord | and | et

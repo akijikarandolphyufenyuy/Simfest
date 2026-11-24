@@ -1,0 +1,13 @@
+# Sign-up e-mail verification (6-digit code) → plan → dashboard
+verifyTitle | Confirm your email | Confirmez votre e-mail
+verifySubtitle | We've sent a 6-digit code to {email}. Enter it below to confirm your email and activate your SplitSure account. | Nous avons envoyé un code à 6 chiffres à {email}. Saisissez-le ci-dessous pour confirmer votre e-mail et activer votre compte SplitSure. | email
+verifyButton | Activate my account | Activer mon compte
+verifyFrom | The email comes from SplitSure. | L'e-mail provient de SplitSure.
+verifySuccessTitle | Email confirmed! | E-mail confirmé !
+verifySuccessBody | Your account is active. Let's pick your plan. | Votre compte est actif. Choisissons votre formule.
+verifyWrongEmail | Wrong email? Sign up again | Mauvais e-mail ? Recommencer l'inscription
+verifyStepAccount | Account | Compte
+verifyStepVerify | Verify | Vérification
+verifyStepPlan | Plan | Formule
+verifyNotConfirmed | Please confirm your email first. We've sent you a new code. | Veuillez d'abord confirmer votre e-mail. Nous vous avons envoyé un nouveau code.
+verifyAlreadyConfirmed | This email is already confirmed. Please sign in. | Cet e-mail est déjà confirmé. Veuillez vous connecter.

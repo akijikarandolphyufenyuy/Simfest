@@ -1,0 +1,44 @@
+# Witness confirmation
+witnessConfirmed | Witness confirmed | Témoin confirmé
+witnessDeclined | Witness declined | Le témoin a refusé
+witnessWaiting | Waiting for the witness to confirm | En attente de la confirmation du témoin
+witnessCode | Witness code | Code de témoin
+witnessResponseNeeded | You are the witness of this agreement | Vous êtes le témoin de cet accord
+witnessResponseIntro | Confirm that you witnessed this agreement between the collaborators below, or decline if you did not. | Confirmez que vous avez été témoin de cet accord entre les collaborateurs ci-dessous, ou refusez si ce n'est pas le cas.
+witnessConfirmButton | Confirm as witness | Confirmer comme témoin
+witnessConfirmQuestion | Confirm that you witnessed this agreement? Your witness code will be printed on the document. | Confirmer que vous avez été témoin de cet accord ? Votre code de témoin sera imprimé sur le document.
+witnessConfirmedToast | You confirmed as witness. | Vous avez confirmé en tant que témoin.
+witnessDeclinedToast | You declined to witness this agreement. | Vous avez refusé d'être témoin de cet accord.
+witnessDeclineTitle | Decline as witness? | Refuser d'être témoin ?
+witnessDeclineQuestion | The creator will be told that you did not witness this agreement. | Le créateur sera informé que vous n'avez pas été témoin de cet accord.
+witnessApproveTitle | Confirm as witness | Confirmer comme témoin
+witnessApproveIntro | {owner} named you as the witness of the agreement for "{song}". | {owner} vous a désigné(e) comme témoin de l'accord pour « {song} ». | owner,song
+witnessApproveLegal | By confirming, you attest that you witnessed this agreement between the parties listed above. No account is needed. | En confirmant, vous attestez avoir été témoin de cet accord entre les parties ci-dessus. Aucun compte n'est nécessaire.
+witnessSignedTitle | Witness confirmation recorded | Confirmation de témoin enregistrée
+witnessSignedBody | Thank you. Your witness code below is printed on the agreement document. | Merci. Votre code de témoin ci-dessous figure sur le document de l'accord.
+witnessDeclinedTitle | You declined to witness this agreement | Vous avez refusé d'être témoin de cet accord
+witnessDeclinedBody | The creator of the agreement has been notified. | Le créateur de l'accord a été informé.
+witnessEmailHint | The witness receives an e-mail to confirm or decline the agreement, even without a SplitSure account. | Le témoin reçoit un e-mail pour confirmer ou refuser l'accord, même sans compte SplitSure.
+notifWitnessInvitedTitle | You are asked to be a witness | Vous êtes sollicité(e) comme témoin
+notifWitnessInvitedBody | Confirm or decline the agreement for "{song}". | Confirmez ou refusez l'accord pour « {song} ». | song
+notifWitnessConfirmedTitle | Witness confirmed | Témoin confirmé
+notifWitnessConfirmedBody | {name} confirmed as witness of "{song}". | {name} a confirmé être témoin de « {song} ». | name,song
+notifWitnessDeclinedTitle | Witness declined | Le témoin a refusé
+notifWitnessDeclinedBody | {name} declined to witness "{song}". | {name} a refusé d'être témoin de « {song} ». | name,song
+# Dashboard collaboration cards
+successfulCollaborations | Successful collaborations | Collaborations réussies
+successfulCollaborationsHint | Agreements approved by every party | Accords approuvés par toutes les parties
+noSuccessfulCollaborations | No successful collaborations yet. They appear here once every party has approved an agreement. | Aucune collaboration réussie pour l'instant. Elles apparaissent ici dès que toutes les parties ont approuvé un accord.
+acceptedCollaborations | Accepted collaborations | Collaborations acceptées
+acceptedCollaborationsHint | Opportunities where your application was accepted | Opportunités pour lesquelles votre candidature a été acceptée
+noAcceptedCollaborations | None yet. When you apply to an opportunity in the Hub and are accepted, it shows here. | Aucune pour l'instant. Quand vous postulez à une opportunité du Hub et êtes accepté(e), elle apparaît ici.
+# Customer support
+supportChatTooltip | Chat with SplitSure support on WhatsApp | Discuter avec le support SplitSure sur WhatsApp
+supportChatTitle | Need help? | Besoin d'aide ?
+supportChatSubtitle | Chat with support | Écrire au support
+# Log out card
+logoutTitle | Log out of SplitSure? | Se déconnecter de SplitSure ?
+stayLoggedIn | Stay | Rester
+# Login greeting
+welcomeBackPlain | Welcome back! | Bon retour !
+greatToSeeYou | Great to see you again! | Ravi de vous revoir !

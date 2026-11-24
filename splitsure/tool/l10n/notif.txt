@@ -1,0 +1,22 @@
+# Phase 9 – notifications
+notifOppRecommendedTitle | New opportunity for you | Nouvelle opportunité pour vous
+notifOppRecommendedBody | "{title}" matches your Music Passport. | « {title} » correspond à votre Music Passport. | title
+notifAppReceivedTitle | New application | Nouvelle candidature
+notifAppReceivedBody | {name} applied to "{title}". | {name} a postulé à « {title} ». | name,title
+notifAppUnderReviewTitle | Application under review | Candidature en cours d'examen
+notifAppShortlistedTitle | You've been shortlisted! | Vous êtes présélectionné(e) !
+notifAppAcceptedTitle | Application accepted 🎉 | Candidature acceptée 🎉
+notifAppRejectedTitle | Application update | Mise à jour de candidature
+notifAppStatusBody | "{title}" | « {title} » | title
+notifAppRejectedBody | Your application to "{title}" wasn't selected this time. | Votre candidature à « {title} » n'a pas été retenue cette fois. | title
+notifWorkspaceTitle | DealFlow workspace ready | Espace DealFlow prêt
+notifWorkspaceBody | Agree on roles and splits for "{title}". | Accordez-vous sur les rôles et les parts pour « {title} ». | title
+notifMemberAddedTitle | You were added to a collaboration | Vous avez été ajouté(e) à une collaboration
+notifTermsUpdatedTitle | Terms updated | Termes mis à jour
+notifTermsUpdatedBody | New terms were proposed for "{title}". Review and agree. | De nouveaux termes ont été proposés pour « {title} ». Vérifiez et acceptez. | title
+notifPaymentSuccessTitle | Payment successful | Paiement réussi
+notifPaymentSuccessBody | {amount} FCFA received. Thank you! | {amount} FCFA reçus. Merci ! | amount
+notifPaymentFailedTitle | Payment failed | Échec du paiement
+notifPaymentFailedBody | Your {amount} FCFA payment didn't go through. Nothing was charged – you can try again. | Votre paiement de {amount} FCFA n'a pas abouti. Rien n'a été débité – vous pouvez réessayer. | amount
+notifProActivatedTitle | Pro activated ⭐ | Pro activé ⭐
+notifProActivatedBody | Unlimited posts, agreements and Reach are now unlocked. | Annonces, accords et Reach illimités sont désormais débloqués.

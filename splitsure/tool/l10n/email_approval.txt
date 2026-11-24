@@ -1,0 +1,24 @@
+# Approve & sign from the e-mail, signature codes, Basic plan agreement limit
+approveTitle | Review & sign the agreement | Examinez et signez l'accord
+approveIntro | {owner} invites you to approve the split agreement for “{song}”. | {owner} vous invite à approuver l'accord de partage pour « {song} ». | owner,song
+approveYourShare | Your share | Votre part
+approveYourRole | Your role | Votre rôle
+approveParties | All parties | Toutes les parties
+approveLegal | By tapping “Approve & sign” you accept these terms. Your electronic signature code is recorded with the date and printed on the agreement document. | En touchant « Approuver et signer », vous acceptez ces conditions. Votre code de signature électronique est enregistré avec la date et imprimé sur le document.
+approveButton | Approve & sign | Approuver et signer
+approveChanges | Request changes or decline | Demander des modifications ou refuser
+approveSignedTitle | Signed! | Signé !
+approveSignedBody | Your approval is recorded. This signature code now appears on the agreement document. We also e-mailed you a copy. | Votre approbation est enregistrée. Ce code de signature figure désormais sur le document. Une copie vous a été envoyée par e-mail.
+approveAlreadySigned | You already signed this agreement. | Vous avez déjà signé cet accord.
+approveAllSigned | Every party has approved – the agreement is complete. | Toutes les parties ont approuvé : l'accord est finalisé.
+approveWaitingOthers | Waiting for the other parties to approve. | En attente de l'approbation des autres parties.
+approveInvalid | This approval link is not valid. Open the latest e-mail from SplitSure. | Ce lien d'approbation n'est pas valide. Ouvrez le dernier e-mail de SplitSure.
+approveExpired | This approval link has expired. Ask the creator to send the agreement again. | Ce lien d'approbation a expiré. Demandez au créateur de renvoyer l'accord.
+approveNewerVersion | This agreement has been updated since this e-mail. Use the link in the newest e-mail. | Cet accord a été modifié depuis cet e-mail. Utilisez le lien du dernier e-mail.
+approveClosed | This agreement is no longer open for approval. | Cet accord n'est plus ouvert à l'approbation.
+approveOpenApp | Open SplitSure | Ouvrir SplitSure
+signatureCode | Signature code | Code de signature
+signedViaEmail | Signed electronically by e-mail | Signé électroniquement par e-mail
+signedViaApp | Signed electronically in SplitSure | Signé électroniquement dans SplitSure
+pdfSignedOn | Signed {date} | Signé le {date} | date
+planAgreementLimitBody | The Basic plan includes 1 agreement document. Upgrade to Pro to create unlimited agreements. | La formule Basique inclut 1 accord. Passez à Pro pour créer des accords illimités.

@@ -1,0 +1,10 @@
+# Shared Music Passport link: sign-up / sign-in gate for visitors without a session
+passportGateTitle | View {name}'s Music Passport | Voir le Music Passport de {name} | name
+passportGateBody | {name} shared their Music Passport with you on SplitSure. Create a free account (or sign in) to see their full profile, portfolio and contact details. | {name} a partagé son Music Passport avec vous sur SplitSure. Créez un compte gratuit (ou connectez-vous) pour voir son profil complet, son portfolio et ses coordonnées. | name
+passportGateCreate | Create a free account | Créer un compte gratuit
+passportGateSignIn | I already have an account | J'ai déjà un compte
+passportGateBack | You'll come straight back to this passport. | Vous reviendrez directement à ce passport.
+passportGatePerk1 | Full profile, skills and genres | Profil complet, compétences et genres
+passportGatePerk2 | Portfolio and released work | Portfolio et œuvres publiées
+passportGatePerk3 | Contact and collaborate safely | Contacter et collaborer en toute sécurité
+passportGateLocked | Members only | Réservé aux membres

@@ -1,0 +1,6 @@
+# Ask the witness of an already-sent agreement
+witnessNotAskedYet | The witness hasn't been asked to confirm this agreement yet. | Le témoin n'a pas encore été sollicité pour confirmer cet accord.
+askWitnessButton | Ask the witness to confirm | Demander au témoin de confirmer
+askWitnessConfirm | The witness will be asked to confirm or decline this agreement. It will only be fully accepted once they confirm. | Le témoin devra confirmer ou refuser cet accord. Il ne sera entièrement accepté qu'après sa confirmation.
+witnessAskedEmailed | The witness has been e-mailed and notified. | Le témoin a reçu un e-mail et une notification.
+witnessAskedInApp | The witness has been asked. They'll be e-mailed once e-mail sending is set up. | Le témoin a été sollicité. Il recevra un e-mail dès que l'envoi d'e-mails sera configuré.

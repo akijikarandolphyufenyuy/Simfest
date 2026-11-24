@@ -1,0 +1,4 @@
+# UI strings without emoji (Flutter Web would download a ~10 MB emoji font for them)
+uploaded | Uploaded | Importé
+notifAppAcceptedTitle | Application accepted | Candidature acceptée
+notifProActivatedTitle | Pro activated | Pro activé

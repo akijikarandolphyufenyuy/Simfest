@@ -1,0 +1,2160 @@
+{
+  "@@locale": "en",
+  "appName": "SplitSure",
+  "tagline": "Protect your music.\nPromote your sound.",
+  "getStarted": "Get Started",
+  "signIn": "Sign In",
+  "english": "English",
+  "french": "Français",
+  "next": "Next",
+  "back": "Back",
+  "skip": "Skip",
+  "onboarding1Title": "Protect Your Collaboration",
+  "onboarding1TitleAccent": "Protect",
+  "onboarding1Subtitle": "Create secure agreements: define collaboration terms, ownership percentages and each contributor's responsibilities.",
+  "onboarding2Title": "Promote Your Music",
+  "onboarding2TitleAccent": "Promote",
+  "onboarding2Subtitle": "Create promotional videos, captions and content for your releases, ready to share on TikTok, Instagram, Facebook and YouTube.",
+  "onboarding3Title": "Manage Your Projects",
+  "onboarding3TitleAccent": "Manage",
+  "onboarding3Subtitle": "Keep all your collaborations and music projects organised in one place.",
+  "email": "Email address",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "username": "Username (optional)",
+  "phoneNumber": "Phone Number",
+  "country": "Country",
+  "preferredLanguage": "Preferred language",
+  "register": "Create Account",
+  "alreadyHaveAccount": "Already have an account?",
+  "dontHaveAccount": "Don't have an account?",
+  "forgotPassword": "Forgot password?",
+  "login": "Sign In",
+  "termsAccept": "I agree to the Terms of Service and Privacy Policy",
+  "emailRequired": "Email is required",
+  "emailInvalid": "Enter a valid email address",
+  "passwordRequired": "Password is required",
+  "passwordTooShort": "Password must be at least 8 characters",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "firstNameRequired": "First name is required",
+  "lastNameRequired": "Last name is required",
+  "mustAcceptTerms": "You must accept the terms to continue",
+  "dashboard": "Dashboard",
+  "myProjects": "My Projects",
+  "protect": "Protect",
+  "reach": "Reach",
+  "notifications": "Notifications",
+  "settings": "Settings",
+  "welcome": "Welcome back",
+  "createProject": "Create Music Project",
+  "recentProjects": "Recent Projects",
+  "pendingAgreements": "Pending Agreements",
+  "subscriptionStatus": "Subscription",
+  "freePlan": "Basic Plan",
+  "monthlyPlan": "Monthly Plan",
+  "quarterlyPlan": "3-Month Plan",
+  "annualPlan": "Annual Plan",
+  "logout": "Log Out",
+  "profile": "Profile",
+  "changeLanguage": "Change Language",
+  "changePassword": "Change Password",
+  "notificationPreferences": "Notification Preferences",
+  "privacyPolicy": "Privacy Policy",
+  "termsAndConditions": "Terms & Conditions",
+  "helpAndSupport": "Help & Support",
+  "selectLanguage": "Select your language",
+  "navHome": "Home",
+  "navAlerts": "Alerts",
+  "onboarding1TitleRest": " Your\nCollaboration",
+  "onboarding2TitleRest": " Your\nMusic",
+  "onboarding3TitleRest": " Your\nProjects",
+  "chooseLanguageBilingual": "Choose your language / Choisissez votre langue",
+  "welcomeFooter": "Join a growing community of artists and creators",
+  "resetPasswordTitle": "Reset Password",
+  "resetPasswordSubtitle": "Enter your email and we will send you a reset link.",
+  "sendResetLink": "Send Reset Link",
+  "resetEmailSent": "Password reset email sent! Check your inbox.",
+  "cancel": "Cancel",
+  "errorWithDetails": "Error: {details}",
+  "@errorWithDetails": {
+    "placeholders": {
+      "details": {
+        "type": "String"
+      }
+    }
+  },
+  "accountCreatedCheckEmail": "Account created! Please check your email to confirm.",
+  "countryCameroon": "Cameroon",
+  "countryNigeria": "Nigeria",
+  "countryGhana": "Ghana",
+  "countrySouthAfrica": "South Africa",
+  "countryKenya": "Kenya",
+  "countryFrance": "France",
+  "countryUnitedStates": "United States",
+  "countryUnitedKingdom": "United Kingdom",
+  "countryOther": "Other",
+  "statusDraft": "Draft",
+  "statusPending": "Pending acceptance",
+  "statusAccepted": "Accepted",
+  "statusChangesRequested": "Changes requested",
+  "statusDeclined": "Declined",
+  "statusContentGenerated": "Content generated",
+  "statusReadyToShare": "Ready to share",
+  "statusCompleted": "Completed",
+  "roleArtist": "Artist",
+  "roleProducer": "Producer",
+  "roleSongwriter": "Songwriter",
+  "roleBeatmaker": "Beatmaker",
+  "roleFeaturedArtist": "Featured artist",
+  "roleComposer": "Composer",
+  "roleSoundEngineer": "Sound engineer",
+  "roleMusicManager": "Music manager",
+  "roleOther": "Other",
+  "daysAgo": "{count}d ago",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "{count}h ago",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "minutesAgo": "{count}m ago",
+  "@minutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "justNow": "Just now",
+  "greetingMorning": "Good morning",
+  "greetingAfternoon": "Good afternoon",
+  "greetingEvening": "Good evening",
+  "greetingWithComma": "{greeting},",
+  "@greetingWithComma": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      }
+    }
+  },
+  "defaultArtistName": "Artist",
+  "agreementsLabel": "Agreements",
+  "campaignsLabel": "Campaigns",
+  "agreementCount": "{count, plural, =0{No agreements} =1{1 agreement} other{{count} agreements}}",
+  "@agreementCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "campaignCount": "{count, plural, =0{No campaigns} =1{1 campaign} other{{count} campaigns}}",
+  "@campaignCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "modules": "Modules",
+  "protectModuleTitle": "SplitSure Protect",
+  "protectModuleSubtitle": "Secure your collaborations with split agreements.",
+  "reachModuleTitle": "SplitSure Reach",
+  "reachModuleSubtitle": "Create promotional content for your releases.",
+  "recentActivity": "Recent Activity",
+  "activityAgreement": "Agreement · {status}",
+  "@activityAgreement": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "activityCampaign": "Campaign · {status}",
+  "@activityCampaign": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "noNotificationsYet": "No notifications yet",
+  "newAgreement": "New Agreement",
+  "newCampaign": "New Campaign",
+  "fullAccessActive": "Full access active",
+  "upgradeForFullAccess": "Upgrade to unlock all features",
+  "upgrade": "Upgrade",
+  "active": "Active",
+  "collaborationAgreements": "Collaboration agreements",
+  "newShort": "New",
+  "filterAll": "All",
+  "noAgreementsYet": "No agreements yet",
+  "noAgreementsHint": "Protect your music collaborations by creating split agreements.",
+  "splitsMustTotal100": "Split percentages must total 100%",
+  "createAgreement": "Create Agreement",
+  "songInformation": "Song Information",
+  "stepOf3": "Step {step} of 3",
+  "step3Optional": "Step 3 of 3 (Optional)",
+  "songTitleRequired": "Song Title *",
+  "fieldRequired": "Required",
+  "musicGenre": "Music Genre",
+  "musicGenreHint": "e.g. Afrobeats, Hip-Hop",
+  "songDescription": "Song Description",
+  "scopeOfRights": "Scope of Rights",
+  "scopeOfRightsHint": "e.g. Master recording, composition, lyrics...",
+  "additionalTermsOptional": "Additional Terms (optional)",
+  "recordingDate": "Recording Date",
+  "expectedReleaseDate": "Expected Release Date",
+  "effectiveDate": "Effective Date",
+  "uploadCoverArtOptional": "Upload Cover Art (optional)",
+  "legalInfoNotice": "This agreement is for informational purposes. Obtain independent legal advice for binding contracts.",
+  "collaboratorsAndSplits": "Collaborators & Splits",
+  "collaborators": "Collaborators",
+  "splitTotalRemaining": "Total: {total}% · Remaining: {remaining}%",
+  "addCollaborator": "Add Collaborator",
+  "noCollaboratorsHint": "You can create the agreement without collaborators and add them later.",
+  "witnessLegalRep": "Witness / Legal Representative",
+  "addWitness": "Add Witness",
+  "addWitnessSubtitle": "Optional — a person who witnesses the agreement",
+  "addLegalRep": "Add Legal Representative",
+  "addLegalRepSubtitle": "Optional — a lawyer or legal advisor",
+  "witnessLawyerDisclaimer": "Disclaimer: Adding a witness or lawyer here does not constitute their legal approval. SplitSure does not replace qualified legal counsel. Parties should seek independent legal advice.",
+  "witnessFullNameRequired": "Witness Full Name *",
+  "emailOptional": "Email (optional)",
+  "phoneOptional": "Phone (optional)",
+  "roleRelationshipOptional": "Role / Relationship (optional)",
+  "lawyerFullNameRequired": "Lawyer Full Name *",
+  "lawFirmOptional": "Law Firm (optional)",
+  "professionalRegistrationOptional": "Professional Registration (optional)",
+  "collaboratorNumber": "Collaborator {number}",
+  "nameRequired": "Name *",
+  "percentRequired": "% *",
+  "requiredShort": "Req.",
+  "invalid": "Invalid",
+  "collaboratorRoleRequired": "Role (e.g. Producer, Vocalist) *",
+  "contributionDescriptionOptional": "Contribution description (optional)",
+  "responseRecorded": "Response recorded: {response}",
+  "statusUpdatedTo": "Status updated to {status}",
+  "pdfError": "PDF error: {details}",
+  "agreementActions": "Agreement Actions",
+  "sendForReview": "Send for Review",
+  "markAccepted": "Mark Accepted",
+  "respondToAgreement": "Respond to Agreement",
+  "accept": "Accept",
+  "requestChanges": "Request Changes",
+  "decline": "Decline",
+  "songDetails": "Song Details",
+  "description": "Description",
+  "additionalTerms": "Additional Terms",
+  "created": "Created",
+  "witness": "Witness",
+  "name": "Name",
+  "emailShort": "Email",
+  "phone": "Phone",
+  "role": "Role",
+  "legalRepresentative": "Legal Representative",
+  "firm": "Firm",
+  "registration": "Registration",
+  "exportAndShare": "Export & Share",
+  "downloadPdf": "Download PDF",
+  "downloadPdfSubtitle": "Generate a PDF copy of this agreement",
+  "copyAgreementId": "Copy Agreement ID",
+  "agreementIdCopied": "Agreement ID copied",
+  "recordKeepingDisclaimer": "Disclaimer: This agreement is for record-keeping purposes. SplitSure does not provide legal advice. Consult a qualified legal professional for binding agreements.",
+  "songProjectInformation": "Song / Project Information",
+  "songTitle": "Song Title",
+  "genre": "Genre",
+  "releaseDate": "Release Date",
+  "agreementStatus": "Agreement Status",
+  "collaboratorsRevenueShares": "Collaborators & Revenue Shares",
+  "roleRelationship": "Role / Relationship",
+  "lawFirm": "Law Firm",
+  "pdfTaglineOneLine": "Protect your music. Promote your sound.",
+  "collaborationAgreementCaps": "COLLABORATION AGREEMENT",
+  "contribution": "Contribution",
+  "sharePercent": "Share %",
+  "acceptanceSignatures": "Acceptance & Signatures",
+  "pdfAcceptanceIntro": "The acceptance status of each party is recorded below.",
+  "signatureLabel": "Signature:",
+  "dateBlank": "Date: ___________",
+  "pdfReference": "Ref: {ref}",
+  "pdfPageOf": "Page {page} of {total}",
+  "pdfTotal": "Total: {total}%",
+  "pdfPartyStatus": "Status: {status}",
+  "pdfAwaitingResponse": "Awaiting response",
+  "pdfAcceptedOn": "Accepted: {date}",
+  "pdfDisclaimer": "DISCLAIMER: This document is generated by SplitSure for record-keeping purposes only. It does not constitute legal advice. The parties are encouraged to seek independent legal counsel before relying on this agreement as a binding contract. SplitSure does not guarantee the legal enforceability of this document in any jurisdiction.",
+  "promotionCampaigns": "Promotion campaigns",
+  "noCampaignsYet": "No campaigns yet",
+  "noCampaignsHint": "Create your first campaign to turn a release into promotional content.",
+  "contentGeneratedLabel": "Content generated",
+  "uploadError": "Upload error: {details}",
+  "editCampaign": "Edit Campaign",
+  "campaignInfo": "Campaign Info",
+  "campaignNameOptional": "Campaign Name (optional)",
+  "musicDescription": "Music Description",
+  "promotionalMessage": "Promotional Message",
+  "promotionalMessageHint": "e.g. My new single is out now!",
+  "streamingLinkOptional": "Streaming Link (optional)",
+  "mediaAssets": "Media Assets",
+  "coverArt": "Cover Art",
+  "musicFileFormats": "Music File (MP3 / WAV)",
+  "audienceAndBudget": "Audience & Budget",
+  "targetAudienceOptional": "Target Audience (optional)",
+  "targetAudienceHint": "e.g. Afrobeats fans, 18-35",
+  "budgetFcfa": "Budget (FCFA)",
+  "releaseOn": "Release: {date}",
+  "releaseDateOptional": "Release Date (optional)",
+  "platforms": "Platforms",
+  "saveChanges": "Save Changes",
+  "createCampaign": "Create Campaign",
+  "uploading": "Uploading...",
+  "uploaded": "Uploaded",
+  "tapToUpload": "Tap to upload",
+  "snippetSaved": "Snippet saved!",
+  "contentGeneratedSnack": "Content generated!",
+  "copiedLabel": "{label} copied!",
+  "campaignDetails": "Campaign Details",
+  "audience": "Audience",
+  "streamingLink": "Streaming Link",
+  "budget": "Budget",
+  "amountFcfa": "{amount} FCFA",
+  "songSnippet": "Song Snippet",
+  "loadingAudio": "Loading audio...",
+  "generatePromoContent": "Generate Promotional Content",
+  "generatePromoContentHint": "Generate captions, hashtags and a promotional announcement for your campaign.",
+  "generating": "Generating...",
+  "generateContent": "Generate Content",
+  "generatedCaption": "Generated Caption",
+  "caption": "Caption",
+  "hashtags": "Hashtags",
+  "promotionalVideo": "Promotional Video",
+  "videoBackendNotice": "Video generation requires a backend service. Download your cover art and use a tool like CapCut or Canva to create a 9:16 promo video with your snippet.",
+  "coverArtUrl": "Cover art URL",
+  "copyCoverArtUrl": "Copy Cover Art URL",
+  "shareOn": "Share On",
+  "shareManuallyHint": "Download your content and share manually on these platforms.",
+  "markReadyToShare": "Mark as Ready to Share",
+  "selectSnippet": "Select Snippet",
+  "secondsShort": "{seconds}s",
+  "snippetStart": "Start: {time}",
+  "snippetEnd": "End: {time}",
+  "snippetRecommendation": "Recommended: 15–30 seconds for social media.",
+  "saveSnippetTimes": "Save Snippet Times",
+  "captionOutNow": "🎵 \"{title}\" is out now!",
+  "defaultPromoMessage": "New music out now!",
+  "streamItNow": "Stream it now",
+  "streamItNowAt": "Stream it now: {link}",
+  "manageYourAccount": "Manage your account",
+  "account": "Account",
+  "editProfile": "Edit Profile",
+  "notificationsAndSubscription": "Notifications & Subscription",
+  "legal": "Legal",
+  "privacyPolicyBody": "SplitSure collects only the data necessary to provide its services. Your data is stored securely on Supabase and is never sold to third parties.",
+  "termsBody": "By using SplitSure, you agree to use the platform responsibly. Agreements created on SplitSure are for record-keeping purposes. Seek independent legal advice for binding contracts.",
+  "helpBody": "For support, contact us at support@splitsure.app. We aim to respond within 24 hours.",
+  "session": "Session",
+  "selectLanguageTitle": "Select Language",
+  "close": "Close",
+  "logoutConfirm": "Are you sure you want to log out?",
+  "passwordUpdated": "Password updated!",
+  "newPassword": "New Password",
+  "confirmNewPassword": "Confirm New Password",
+  "updatePassword": "Update Password",
+  "markAllRead": "Mark all read",
+  "noNotificationsHint": "You'll be notified about agreements and campaigns here.",
+  "chooseAPlan": "Choose a Plan",
+  "unlockFullAccess": "Unlock full access to SplitSure",
+  "durationForever": "Forever",
+  "durationPerMonth": "per month",
+  "durationThreeMonths": "3 months",
+  "durationPerYear": "per year",
+  "saveVsMonthly": "Save {amount} FCFA vs monthly",
+  "featureUpTo2Agreements": "Create up to 2 agreements",
+  "featureUpTo2Campaigns": "Create up to 2 campaigns",
+  "featureBasicContent": "Basic content generation",
+  "featureCommunitySupport": "Community support",
+  "featureUnlimitedAgreements": "Unlimited agreements",
+  "featureUnlimitedCampaigns": "Unlimited campaigns",
+  "featureFullContent": "Full content generation",
+  "featurePdfExport": "PDF agreement export",
+  "featurePrioritySupport": "Priority support",
+  "featureEverythingMonthly": "Everything in Monthly",
+  "featureSave17": "Save 17% vs monthly",
+  "featureEarlyAccess": "Early access to new features",
+  "featureSave58": "Save 58% vs monthly",
+  "featurePriorityRequests": "Priority feature requests",
+  "featureDedicatedSupport": "Dedicated support",
+  "mobileMoneyNotice": "Payment integration with Mobile Money (MTN, Orange) will be available in the full release. Use the demo flow for testing.",
+  "demoSubscriptionActivated": "Demo subscription activated: {plan}",
+  "currentPlan": "Current: {plan}",
+  "expiresOn": "Expires: {date}",
+  "noExpiry": "No expiry",
+  "expired": "Expired",
+  "popular": "Popular",
+  "current": "Current",
+  "subscribeFor": "Subscribe – {price}",
+  "demoModeNotice": "DEMO MODE — No real payment is processed. This simulates a subscription for testing.",
+  "plan": "Plan",
+  "amount": "Amount",
+  "confirmDemoSubscription": "Confirm Demo Subscription",
+  "personalInformation": "Personal Information",
+  "bio": "Bio",
+  "city": "City",
+  "connectedAccounts": "Connected Accounts",
+  "transactionHistory": "Transaction History",
+  "preferences": "Preferences",
+  "about": "About",
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "aboutSplitSure": "About SplitSure",
+  "appVersion": "Version 1.0.0",
+  "aboutDescription": "SplitSure helps independent artists, producers and songwriters manage collaboration agreements and promote their music releases.",
+  "aboutCommunity": "Built for the music community in Cameroon and beyond.",
+  "inactive": "Inactive",
+  "noSocialAccounts": "No social accounts connected.",
+  "noTransactionsYet": "No transactions yet.",
+  "profileUpdated": "Profile updated!",
+  "save": "Save",
+  "personalInfo": "Personal Info",
+  "firstNameRequiredLabel": "First Name *",
+  "lastNameRequiredLabel": "Last Name *",
+  "musicRoles": "Music Roles",
+  "socialMediaLinks": "Social Media Links",
+  "whatsappUrl": "WhatsApp Number or Link",
+  "tiktokUrl": "TikTok URL",
+  "youtubeUrl": "YouTube URL",
+  "facebookUrl": "Facebook URL",
+  "saveProfile": "Save Profile",
+  "signInSubtitle": "Welcome back! Sign in to continue.",
+  "registerSubtitle": "Join SplitSure in less than a minute.",
+  "rememberMe": "Remember me",
+  "welcomeBackName": "Welcome back, {name}!",
+  "welcomeNewName": "Welcome to SplitSure, {name}!",
+  "welcomeBackSubtitle": "Good to see you again. Your music is in safe hands.",
+  "welcomeNewSubtitle": "Your account is ready. Let's protect and promote your music.",
+  "accountCreatedTitle": "Account created!",
+  "continueToSignIn": "Continue to sign in",
+  "unreadCount": "{count, plural, =0{All caught up} =1{1 unread} other{{count} unread}}",
+  "acceptConfirm": "By accepting, you confirm you have read this agreement and agree to your share and role. Your acceptance will be recorded with the date and your account.",
+  "acceptedExplain": "Every required party has accepted this version. It is now locked and kept in the history.",
+  "acceptedLocked": "Accepted agreements cannot be edited. Create a new agreement for any further changes.",
+  "acceptedOfTotal": "{accepted}/{total} accepted",
+  "addAtLeastOneCollaborator": "Add at least one collaborator.",
+  "additionalTermsHint": "e.g. deductions, credits, how disputes are handled…",
+  "agreementReference": "Agreement reference",
+  "agreementSavedDraft": "Agreement saved as a draft. Review it, then send it to your collaborators.",
+  "agreementTitleFor": "Music Collaboration Agreement – “{song}”",
+  "artistNameLabel": "Artist name *",
+  "awaitingResponse": "Awaiting response",
+  "changeNoteOptional": "What changed? (optional)",
+  "changeRequests": "Changes requested",
+  "changeRequestsHint": "Edit the agreement to address these requests; a new version will be sent to everyone.",
+  "changesRequestedExplain": "A collaborator asked for changes. The creator can edit the agreement and send a new version.",
+  "changesSaved": "Changes saved.",
+  "confirm": "Confirm",
+  "confirmRights": "I confirm I own this content or have permission to use it.",
+  "confirmRightsRequired": "Please confirm you own or have permission to use the uploaded content.",
+  "copyInviteLink": "Copy invite link",
+  "declineReasonOptional": "Reason (optional)",
+  "declinedExplain": "A collaborator declined. The creator can revise the agreement and send a new version, or delete it.",
+  "delete": "Delete",
+  "deleteAgreementConfirm": "Delete this agreement? This cannot be undone.",
+  "deleteProjectConfirm": "Delete this project? Its agreements and campaigns are kept but no longer linked to it.",
+  "describeChanges": "Describe the changes you need",
+  "draftExplain": "Only you can see this draft. When the shares total 100%, send it to your collaborators for review.",
+  "edit": "Edit",
+  "editAgreement": "Edit agreement",
+  "editAndResend": "Edit & send new version",
+  "editProject": "Edit project",
+  "emailForInvite": "Email (to invite)",
+  "featureNotInPlan": "This feature is not included in your current plan.",
+  "finalizedOn": "Accepted by all on",
+  "inviteExplain": "Collaborators with an email receive the agreement in their SplitSure account (registered or not yet). You can also copy a secure invite link for each person once the agreement is saved.",
+  "inviteLinkCopied": "Invite link for {name} copied. Share it privately.",
+  "inviteOpening": "Linking this invitation to your account…",
+  "inviteSignInPrompt": "You've been invited to review a music collaboration agreement. Create a free account or sign in to view it.",
+  "inviteTitle": "You're invited to collaborate",
+  "musicProjectOptional": "Music project (optional)",
+  "newVersionExplain": "Your edits will be sent as a new version. Previous answers are kept in the history and everyone will be asked to review again.",
+  "newVersionSent": "New version sent to your collaborators.",
+  "newVersionTitle": "Send a new version?",
+  "noProject": "No project",
+  "noProjectsHint": "Group a song's agreements and campaigns in one place.",
+  "noProjectsYet": "No projects yet",
+  "noResponsesYet": "No responses yet",
+  "notNow": "Not now",
+  "openAgreement": "Open agreement",
+  "paymentTerms": "Payment / revenue-sharing terms",
+  "paymentTermsHint": "e.g. how and when income is shared, who collects, reporting…",
+  "pendingExplain": "Waiting for collaborators: {accepted} of {total} have accepted.",
+  "planLimitReachedBody": "Your current plan allows up to {max}. Upgrade to create more.",
+  "planLimitReachedTitle": "Plan limit reached",
+  "projectCount": "{count, plural, =0{No projects} =1{1 project} other{{count} projects}}",
+  "projectSaved": "Project saved.",
+  "projectStatus": "Project status",
+  "projectStatusIdea": "Idea",
+  "projectStatusInProgress": "In progress",
+  "projectStatusRecorded": "Recorded",
+  "projectStatusReleased": "Released",
+  "responseSentAccepted": "You accepted the agreement.",
+  "responseSentChanges": "Your change request was sent.",
+  "responseSentDeclined": "You declined the agreement.",
+  "saveAsDraft": "Save as draft",
+  "saveProject": "Save project",
+  "scopeAndTerms": "Scope & terms",
+  "scopeComposition": "Musical composition",
+  "scopeDetails": "Scope details (optional)",
+  "scopeHelp": "The percentages do not automatically apply to every right or income. Select what this agreement covers.",
+  "scopeLyrics": "Lyrics",
+  "scopeMaster": "Sound recording / master",
+  "scopeOther": "Other rights or revenue",
+  "scopeProduction": "Production contribution",
+  "scopeQuestion": "What does this agreement cover?",
+  "seeAll": "See all",
+  "seePlans": "See plans",
+  "send": "Send",
+  "sendForReviewConfirm": "Send this agreement to all collaborators for review? They will be able to accept, request changes or decline.",
+  "sendNewVersion": "Send new version",
+  "sentForReview": "Agreement sent for review.",
+  "splitsExceed100": "The total cannot exceed 100%.",
+  "splitsMustReach100": "Shares must total exactly 100% before the agreement can be sent.",
+  "splitsReady": "Shares total 100%.",
+  "stepOfN": "Step {step} of {total}",
+  "totalLabel": "Total",
+  "versionHistory": "Version history",
+  "versionLabel": "Version",
+  "versionSentOn": "Version {version} · {date}",
+  "versionShort": "v{version}",
+  "witnessOptionalIntro": "Both sections are optional. A witness or lawyer listed here has not approved the agreement unless they review it themselves.",
+  "yourResponse": "Your response",
+  "yourResponseNeeded": "Your response is needed",
+  "yourShareIs": "Your share: {percent} as {role}",
+  "updatedOn": "Updated {date}",
+  "sharedWithYou": "Shared with you",
+  "deleteCampaignConfirm": "Delete this campaign and its generated content?",
+  "downloadVideo": "Download video",
+  "durationDays": "{days} days",
+  "enablePush": "Enable push notifications on this device",
+  "expiresInDays": "{days, plural, =0{Expires today} =1{Expires tomorrow} other{Expires in {days} days}}",
+  "expiryDate": "Expiry date",
+  "featureCollaboratorInvites": "Collaborator invitations & acceptance tracking",
+  "featurePromoVideo": "9:16 promotional videos",
+  "featureUnlimitedProjects": "Unlimited music projects",
+  "featureUpToAgreements": "Up to {count} agreements",
+  "featureUpToCampaigns": "Up to {count} campaigns",
+  "featureUpToProjects": "Up to {count} music projects",
+  "freePlanExplain": "You're on the Basic plan. Upgrade any time for unlimited agreements, campaigns and projects.",
+  "generateVideo": "Generate promo video",
+  "markCompleted": "Mark completed",
+  "notifAcceptedBody": "{name} accepted “{song}”.",
+  "notifAcceptedTitle": "Agreement accepted",
+  "notifCampaignBody": "“{campaign}” is complete.",
+  "notifCampaignTitle": "Campaign completed",
+  "notifCatAgreements": "Agreements",
+  "notifCatAgreementsHint": "Invitations, responses and new versions",
+  "notifCatCampaigns": "Campaigns",
+  "notifCatCampaignsHint": "When a campaign is completed",
+  "notifCatSubscription": "Subscription",
+  "notifCatSubscriptionHint": "Expiry reminders",
+  "notifChangesBody": "{name} requested changes to “{song}”.",
+  "notifChangesTitle": "Changes requested",
+  "notifDeclinedBody": "{name} declined “{song}”.",
+  "notifDeclinedTitle": "Agreement declined",
+  "notifExpiredBody": "Renew to keep full access to SplitSure.",
+  "notifExpiredTitle": "Subscription expired",
+  "notifExpiringBody": "Your plan expires on {date}.",
+  "notifExpiringTitle": "Subscription expiring soon",
+  "notifFinalBody": "All parties accepted “{song}”.",
+  "notifFinalTitle": "Agreement finalised",
+  "notifInvitedBody": "You've been invited to review “{song}”.",
+  "notifInvitedTitle": "New collaboration agreement",
+  "notifNewVersionBody": "Version {version} of “{song}” is ready for review.",
+  "notifNewVersionTitle": "Agreement updated",
+  "outNowBadge": "OUT NOW",
+  "paymentDemo": "Demo (not paid)",
+  "paymentFailed": "Failed",
+  "paymentPaid": "Paid",
+  "paymentPending": "Pending",
+  "paymentRefunded": "Refunded",
+  "paymentStatus": "Payment status",
+  "pushEnabled": "Push notifications enabled on this device.",
+  "pushExplain": "Allow notifications in your browser to be alerted about agreements even when SplitSure is closed.",
+  "pushUnavailable": "Push notifications are not available in this browser or were blocked.",
+  "regenerateVideo": "Generate a new video",
+  "renewExtends": "Renewing adds the new period after your current expiry date.",
+  "renewPlan": "Renew – {price}",
+  "startDate": "Start date",
+  "subscriptionHistory": "Subscription history",
+  "templatePulse": "Cover pulse",
+  "templatePulseHint": "Artwork that moves with the beat",
+  "templateWaveform": "Waveform teaser",
+  "templateWaveformHint": "Live sound bars + progress",
+  "videoFailed": "Video could not be created: {details}",
+  "videoIntro": "Creates a real vertical 9:16 video with your artwork, title, artist name, message and the selected snippet. It records in real time, so keep this tab open.",
+  "videoNeedsMusic": "Upload a music file to the campaign first.",
+  "videoReady": "Your promo video is ready!",
+  "videoRendering": "Recording your video… {percent}%",
+  "videoUnsupported": "This browser cannot record video. Use a recent Chrome, Edge or Safari.",
+  "videoWebmNote": "Your browser saved this video as WebM. For an MP4 file, generate it in Chrome, Edge or Safari.",
+  "@stepOf3": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "@splitTotalRemaining": {
+    "placeholders": {
+      "total": {
+        "type": "String"
+      },
+      "remaining": {
+        "type": "String"
+      }
+    }
+  },
+  "@collaboratorNumber": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@responseRecorded": {
+    "placeholders": {
+      "response": {
+        "type": "String"
+      }
+    }
+  },
+  "@statusUpdatedTo": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "@pdfError": {
+    "placeholders": {
+      "details": {
+        "type": "String"
+      }
+    }
+  },
+  "@pdfReference": {
+    "placeholders": {
+      "ref": {
+        "type": "String"
+      }
+    }
+  },
+  "@pdfPageOf": {
+    "placeholders": {
+      "page": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "@pdfTotal": {
+    "placeholders": {
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "@pdfPartyStatus": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "@pdfAcceptedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@uploadError": {
+    "placeholders": {
+      "details": {
+        "type": "String"
+      }
+    }
+  },
+  "@releaseOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@copiedLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "@amountFcfa": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@secondsShort": {
+    "placeholders": {
+      "seconds": {
+        "type": "String"
+      }
+    }
+  },
+  "@snippetStart": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@snippetEnd": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@captionOutNow": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "@streamItNowAt": {
+    "placeholders": {
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "@saveVsMonthly": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@demoSubscriptionActivated": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "@currentPlan": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "@expiresOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@subscribeFor": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "@welcomeBackName": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@welcomeNewName": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@unreadCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@acceptedOfTotal": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@agreementTitleFor": {
+    "placeholders": {
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@inviteLinkCopied": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@pendingExplain": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@planLimitReachedBody": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "@projectCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@stepOfN": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "@versionSentOn": {
+    "placeholders": {
+      "version": {
+        "type": "int"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@versionShort": {
+    "placeholders": {
+      "version": {
+        "type": "int"
+      }
+    }
+  },
+  "@yourShareIs": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      },
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "@updatedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@durationDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "@expiresInDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "@featureUpToAgreements": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@featureUpToCampaigns": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@featureUpToProjects": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@notifAcceptedBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifCampaignBody": {
+    "placeholders": {
+      "campaign": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifChangesBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifDeclinedBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifExpiringBody": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifFinalBody": {
+    "placeholders": {
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifInvitedBody": {
+    "placeholders": {
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@notifNewVersionBody": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "@renewPlan": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "@videoFailed": {
+    "placeholders": {
+      "details": {
+        "type": "String"
+      }
+    }
+  },
+  "@videoRendering": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "No music roles added yet.",
+  "proPlan": "Pro",
+  "choosePlanTitle": "Choose your plan",
+  "choosePlanSubtitle": "Start free and upgrade whenever you're ready.",
+  "continueWithFree": "Continue with Basic",
+  "upgradeToPro": "Upgrade to Pro",
+  "upgradeForAmount": "Upgrade for {amount}",
+  "@upgradeForAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "oneTimePayment": "One-time payment",
+  "freeForever": "Free forever",
+  "recommended": "Recommended",
+  "proActive": "Pro active",
+  "proActiveSince": "Pro since {date}",
+  "@proActiveSince": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "youAreOnFree": "You're on the Free plan",
+  "youAreOnPro": "You're on Pro",
+  "proUnlocksBody": "Unlimited opportunity posts, unlimited final agreements, Reach promotion tools and more.",
+  "freeFeatureProtectDrafts": "1 free agreement document",
+  "freeFeatureAgreementFee": "Each extra agreement: {amount} to preview & download",
+  "@freeFeatureAgreementFee": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "freeFeatureOnePost": "1 opportunity post",
+  "freeFeaturePassport": "Music Passport & applications",
+  "freeFeatureProjects": "Up to {count} projects",
+  "@freeFeatureProjects": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "proFeatureUnlimitedPosts": "Unlimited opportunity posts",
+  "proFeatureUnlimitedAgreements": "Unlimited agreements",
+  "proFeatureReach": "Reach: campaigns, captions & promo videos",
+  "proFeatureUnlimitedProjects": "Unlimited projects",
+  "proFeaturePriority": "Priority visibility in the Opportunity Hub",
+  "paymentHistory": "Payment history",
+  "noPayments": "No payments yet.",
+  "paymentTypePro": "Pro upgrade",
+  "paymentTypeAgreement": "Final agreement",
+  "paymentSuccess": "Successful",
+  "paymentCancelled": "Cancelled",
+  "payWithMobileMoney": "Pay with Mobile Money",
+  "mtnMomo": "MTN Mobile Money",
+  "orangeMoney": "Orange Money",
+  "mobileMoneyNumber": "Mobile Money number",
+  "mobileMoneyNumberHint": "6XX XXX XXX",
+  "invalidCameroonPhone": "Enter a valid Cameroon number (9 digits starting with 6).",
+  "payAmount": "Pay {amount}",
+  "@payAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForApproval": "Waiting for your approval",
+  "approveOnPhone": "Check your phone and approve the {amount} payment with your PIN.",
+  "@approveOnPhone": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "dialToApprove": "No prompt? Dial *126# (MTN) or #150*50# (Orange) to approve pending payments.",
+  "checkingPayment": "Checking payment…",
+  "paymentConfirmed": "Payment confirmed",
+  "paymentNotCompleted": "Payment not completed",
+  "paymentFailedBody": "The payment was declined or cancelled. Nothing was charged. You can try again.",
+  "paymentStillPending": "We haven't received confirmation yet. If you approved it, it will be applied automatically – check again in a moment.",
+  "checkAgain": "Check again",
+  "tryAgain": "Try again",
+  "paymentsUnavailable": "Payments are temporarily unavailable. Please try again later.",
+  "alreadyPro": "You already have Pro.",
+  "proWelcomeTitle": "Welcome to Pro!",
+  "proWelcomeBody": "Everything is unlocked. Enjoy unlimited posts, agreements and Reach.",
+  "securePaymentNote": "Payments are processed securely by MeSomb. SplitSure never sees your PIN.",
+  "planBadgeFree": "FREE",
+  "planBadgePro": "PRO",
+  "reference": "Reference",
+  "continueLabel": "Continue",
+  "musicPassport": "Music Passport",
+  "passportTagline": "Your professional music identity",
+  "createPassport": "Create my Music Passport",
+  "createPassportIntro": "One professional profile used across SplitSure: showcase your roles, skills and work, apply to opportunities and get discovered.",
+  "editPassport": "Edit passport",
+  "passportStepIdentity": "Identity",
+  "passportStepProfessional": "Professional",
+  "passportStepPortfolio": "Portfolio",
+  "passportStepReview": "Review",
+  "stageName": "Professional / stage name",
+  "fullName": "Full name",
+  "primaryRole": "Primary role",
+  "secondaryRoles": "Secondary roles (optional)",
+  "professionalBio": "Short professional biography",
+  "contactEmail": "Contact email",
+  "contactPhone": "Contact phone",
+  "preferredContact": "Preferred contact method",
+  "contactEmailMethod": "Email",
+  "contactPhoneMethod": "Phone call",
+  "contactWhatsapp": "WhatsApp",
+  "contactInApp": "Through SplitSure",
+  "skillsSpecialisations": "Skills & specialisations",
+  "yearsExperience": "Years of experience",
+  "genres": "Genres",
+  "instruments": "Instruments played",
+  "languages": "Languages",
+  "availability": "Availability for collaboration",
+  "availabilityAvailable": "Available",
+  "availabilityLimited": "Limited availability",
+  "availabilityUnavailable": "Not available",
+  "preferredArrangements": "Preferred collaboration arrangements",
+  "operatingLocation": "Location of operation",
+  "operatingLocationHint": "e.g. Douala, Yaoundé, remote",
+  "typeAndEnter": "Type and press Enter",
+  "externalLinks": "Links",
+  "personalWebsite": "Website",
+  "portfolioItems": "Portfolio & experience",
+  "addPortfolioItem": "Add to portfolio",
+  "editPortfolioItem": "Edit portfolio item",
+  "noPortfolioItems": "Add your projects, releases, credits, videos and awards.",
+  "portfolioKind": "Type",
+  "kindProject": "Project",
+  "kindRelease": "Released song",
+  "kindAlbum": "Album / EP",
+  "kindProductionCredit": "Production credit",
+  "kindWritingCredit": "Writing credit",
+  "kindCollaboration": "Collaboration",
+  "kindVideo": "Music video",
+  "kindAward": "Achievement / award",
+  "kindExperience": "Professional experience",
+  "itemTitle": "Title",
+  "itemRoleOptional": "Your role (optional)",
+  "itemYear": "Year",
+  "itemLink": "Link (Spotify, YouTube…)",
+  "itemDescription": "Description",
+  "addImage": "Add image",
+  "showOnPublicPassport": "Show on my public passport",
+  "visibilitySettings": "Public visibility",
+  "visibilityHint": "Choose what visitors of your public passport can see.",
+  "visibilityContact": "Contact details",
+  "visibilityLocation": "Location",
+  "visibilityPortfolio": "Portfolio",
+  "visibilityLinks": "Links",
+  "visibilityExperience": "Years of experience",
+  "passportUrl": "Public link",
+  "passportSlugHint": "letters, numbers and dashes",
+  "slugTaken": "This link is already taken.",
+  "slugInvalid": "Use 3–40 lowercase letters, numbers or dashes.",
+  "saveDraft": "Save draft",
+  "publishPassport": "Publish passport",
+  "unpublishPassport": "Unpublish",
+  "passportPublished": "Your Music Passport is live!",
+  "passportSaved": "Passport saved",
+  "passportDraft": "Draft – not public yet",
+  "passportLive": "Published",
+  "previewPublic": "Preview public profile",
+  "sharePassport": "Share passport",
+  "linkCopied": "Link copied",
+  "collaborate": "Collaborate",
+  "contact": "Contact",
+  "viewPortfolio": "View portfolio",
+  "viewPassport": "View Music Passport",
+  "passportNotFound": "This Music Passport doesn't exist or isn't public.",
+  "yearsExperienceValue": "{count} years of experience",
+  "@yearsExperienceValue": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noContactPublic": "This member shares contact details only through SplitSure. Sign in and apply to one of their opportunities to collaborate.",
+  "openOpportunitiesBy": "Open opportunities by {name}",
+  "@openOpportunitiesBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "noOpenOpportunitiesBy": "{name} has no open opportunities right now.",
+  "@noOpenOpportunitiesBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "signInToCollaborate": "Sign in to collaborate",
+  "joinSplitSure": "Join SplitSure",
+  "passportRequiredTitle": "Music Passport needed",
+  "passportRequiredBody": "Publish your Music Passport first – it's your professional identity for posting and applying.",
+  "stepOf": "Step {current} of {total}",
+  "@stepOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "photo": "Photo",
+  "changePhoto": "Change photo",
+  "requiredField": "Required",
+  "rolePassportSinger": "Singer / Vocalist",
+  "rolePassportRapper": "Rapper",
+  "rolePassportProducer": "Music Producer",
+  "rolePassportSongwriter": "Songwriter",
+  "rolePassportComposer": "Composer",
+  "rolePassportSoundEngineer": "Sound Engineer",
+  "rolePassportMixMaster": "Mixing & Mastering Engineer",
+  "rolePassportInstrumentalist": "Instrumentalist",
+  "rolePassportDj": "DJ",
+  "rolePassportMusicManager": "Music Manager",
+  "rolePassportArtistManager": "Artist Manager",
+  "rolePassportLabel": "Record Label",
+  "rolePassportPublisher": "Music Publisher",
+  "rolePassportVideoDirector": "Video Director",
+  "rolePassportPromoter": "Music Promoter",
+  "rolePassportDesigner": "Graphic Designer",
+  "rolePassportPhotographer": "Photographer",
+  "rolePassportBusiness": "Music Business Professional",
+  "rolePassportOther": "Other",
+  "arrangementPaid": "Paid collaboration",
+  "arrangementRevenueShare": "Revenue sharing",
+  "arrangementRoyaltyShare": "Royalty sharing",
+  "arrangementPercentage": "Percentage-based partnership",
+  "arrangementVoluntary": "Voluntary collaboration",
+  "arrangementNegotiable": "Negotiable arrangement",
+  "opportunityHub": "Opportunity Hub",
+  "navHub": "Hub",
+  "hubTagline": "Find collaborators and music projects",
+  "hubDiscover": "Discover",
+  "hubMyPosts": "My posts",
+  "hubMyApplications": "My applications",
+  "recommendedForYou": "Recommended for you",
+  "allOpportunities": "All opportunities",
+  "searchOpportunities": "Search opportunities",
+  "filters": "Filters",
+  "clearFilters": "Clear filters",
+  "filterRole": "Role",
+  "filterGenre": "Genre",
+  "filterLocation": "Location",
+  "filterCompensation": "Compensation",
+  "filterCategory": "Category",
+  "filterDate": "Posted",
+  "anyTime": "Any time",
+  "last24h": "Last 24 hours",
+  "lastWeek": "Last 7 days",
+  "lastMonth": "Last 30 days",
+  "remoteOk": "Remote OK",
+  "noOpportunities": "No opportunities match yet.",
+  "noOpportunitiesHint": "Try other filters, or post your own opportunity.",
+  "postOpportunity": "Post an opportunity",
+  "editOpportunity": "Edit opportunity",
+  "opportunityTitle": "Opportunity title",
+  "opportunityTitleHint": "e.g. Looking for a vocalist for an Afrobeats single",
+  "projectDescription": "Project description",
+  "projectCategory": "Project category",
+  "categoryRecording": "Recording",
+  "categorySongwriting": "Songwriting",
+  "categoryProduction": "Production",
+  "categoryPerformance": "Performance",
+  "categoryVideo": "Music video",
+  "categoryLive": "Live / events",
+  "categoryMarketing": "Marketing & promotion",
+  "categoryBusiness": "Business & management",
+  "categoryOther": "Other",
+  "requiredRoles": "Required role(s)",
+  "requiredSkills": "Required skills",
+  "projectLocation": "Project location",
+  "remoteCollaboration": "Remote collaboration possible",
+  "collaborationType": "Collaboration type",
+  "compensationArrangement": "Compensation arrangement",
+  "compensationHint": "e.g. 50,000 FCFA, or 20% of master royalties",
+  "expectedDeliverables": "Expected deliverables",
+  "projectDeadline": "Project deadline",
+  "applicationDeadline": "Application deadline",
+  "positionsNeeded": "Number of collaborators needed",
+  "referenceLinks": "Reference files or links",
+  "additionalRequirements": "Additional requirements",
+  "restrictToRoles": "Only show to people with these roles",
+  "restrictToRolesHint": "Recommended: your opportunity reaches the right people and stays private from others.",
+  "publishOpportunity": "Publish opportunity",
+  "opportunityPublished": "Opportunity published",
+  "opportunityUpdated": "Opportunity updated",
+  "freePostUsedTitle": "Free post used",
+  "freePostUsedBody": "Free accounts include one opportunity post. Upgrade to Pro for unlimited posts.",
+  "freePostsRemaining": "Basic plan: {count} post left",
+  "@freePostsRemaining": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statusOpen": "Open",
+  "statusClosed": "Closed",
+  "closeOpportunity": "Close",
+  "reopenOpportunity": "Reopen",
+  "deleteOpportunity": "Delete opportunity",
+  "deleteOpportunityConfirm": "Delete this opportunity and its applications? This can't be undone, and your free post allowance isn't restored.",
+  "postedBy": "Posted by",
+  "publishedOn": "Published {date}",
+  "@publishedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "deadlineOn": "Deadline {date}",
+  "@deadlineOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "applyBy": "Apply by {date}",
+  "@applyBy": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "positionsCount": "{count, plural, =1{1 position} other{{count} positions}}",
+  "@positionsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "applicationsCount": "{count, plural, =0{No applications yet} =1{1 application} other{{count} applications}}",
+  "@applicationsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "applyNow": "Apply now",
+  "shareOpportunity": "Share",
+  "alreadyApplied": "You applied",
+  "applyTitle": "Apply with your Music Passport",
+  "applicationMessage": "Short message to the owner",
+  "applicationMessageHint": "Why are you a good fit?",
+  "supportingLinks": "Portfolio links or supporting material",
+  "submitApplication": "Submit application",
+  "applicationSent": "Application sent",
+  "opportunityClosedNotice": "This opportunity is closed.",
+  "yourOwnOpportunity": "This is your opportunity.",
+  "applicationsTitle": "Applications",
+  "noApplicationsYet": "No applications yet.",
+  "appStatusPending": "Pending",
+  "appStatusUnderReview": "Under review",
+  "appStatusShortlisted": "Shortlisted",
+  "appStatusAccepted": "Accepted",
+  "appStatusRejected": "Rejected",
+  "appStatusWithdrawn": "Withdrawn",
+  "markUnderReview": "Review",
+  "shortlist": "Shortlist",
+  "reject": "Reject",
+  "withdraw": "Withdraw",
+  "withdrawConfirm": "Withdraw your application?",
+  "appliedOn": "Applied {date}",
+  "@appliedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "noMyApplications": "You haven't applied to any opportunity yet.",
+  "noMyPosts": "You haven't posted any opportunity yet.",
+  "startWorkspace": "Open DealFlow workspace",
+  "dealflow": "DealFlow",
+  "dealflowTagline": "Agree on roles and splits, then protect it",
+  "workspaces": "Workspaces",
+  "noWorkspaces": "Accept an applicant to start a DealFlow workspace.",
+  "wsStatusNegotiating": "Negotiating",
+  "wsStatusAgreed": "Terms agreed",
+  "wsStatusInProtect": "In Protect",
+  "wsStatusActive": "Active",
+  "wsStatusCompleted": "Completed",
+  "wsStatusCancelled": "Cancelled",
+  "projectOwner": "Project owner",
+  "participants": "Participants",
+  "responsibilities": "Responsibilities",
+  "contributionPercent": "Contribution %",
+  "proposeTerms": "Propose terms",
+  "editTerms": "Edit terms",
+  "paymentArrangement": "Payment arrangement",
+  "importantDates": "Important dates",
+  "discussion": "Discussion",
+  "writeMessage": "Write a message…",
+  "iAgree": "I agree to these terms",
+  "withdrawAgreement": "Withdraw my agreement",
+  "agreedBadge": "Agreed",
+  "notAgreedYet": "Not agreed yet",
+  "totalPercent": "Total: {percent}%",
+  "@totalPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "totalMustBe100": "Contributions must add up to 100% before everyone can agree.",
+  "continueInProtect": "Continue in Protect",
+  "continueInProtectHint": "Everyone agreed. Create the agreement in Protect – it's pre-filled with these terms.",
+  "markActive": "Mark active",
+  "cancelWorkspace": "Cancel collaboration",
+  "termsLocked": "Terms are locked because the agreement is in Protect.",
+  "workspaceOpened": "Workspace ready",
+  "done": "Done",
+  "more": "More",
+  "currentPlanName": "Current plan: {plan}",
+  "@currentPlanName": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "pdfPreviewWatermark": "PREVIEW – NOT FINAL",
+  "previewPdf": "Preview PDF",
+  "previewPdfSubtitle": "Free draft copy (not the final agreement)",
+  "generateFinalAgreement": "Generate final agreement",
+  "finalAgreementFree": "Included in Pro",
+  "finalAgreementFee": "{amount} one-time for this agreement",
+  "@finalAgreementFee": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "finalAgreementNeedsAcceptance": "Available once every party has accepted.",
+  "downloadFinalAgreement": "Download final agreement",
+  "finalAgreementReady": "Final agreement – saved for every party",
+  "finalAgreementUnlockedTitle": "Final agreement unlocked",
+  "reachProOnlyTitle": "Reach is a Pro feature",
+  "reachProOnlyBody": "Turn every release into ready-to-post content for Instagram, TikTok, Facebook and WhatsApp.",
+  "reachBenefitCampaigns": "Promotion campaigns for every release",
+  "reachBenefitVideo": "9:16 promo videos from your track and cover",
+  "reachBenefitCaptions": "Captions, hashtags and announcements in EN/FR",
+  "reachBenefitBio": "Artist bios written from your Music Passport",
+  "upgradeNowFor": "Upgrade now – {amount}",
+  "@upgradeNowFor": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "contentStudio": "Content Studio",
+  "contentStudioSubtitle": "Captions, announcements and bios from your projects and Passport",
+  "contentType": "What do you want to write?",
+  "contentCaption": "Promo caption",
+  "contentAnnouncement": "Release announcement",
+  "contentBio": "Artist biography",
+  "contentProjectPromo": "Project promotion",
+  "platform": "Platform",
+  "sourceProject": "Project or campaign",
+  "noSourceSelected": "No project – use my Passport only",
+  "generate": "Generate",
+  "regenerate": "Another version",
+  "copyText": "Copy",
+  "textCopied": "Copied – paste it in your app",
+  "shareText": "Share",
+  "needPassportForBio": "Create your Music Passport to generate a biography.",
+  "directPublishNote": "Direct publishing needs each platform's official app approval. For now, copy or share the text and post it from the platform.",
+  "genCaption1": "New music alert! \"{title}\" by {artist} is out now. {link}",
+  "@genCaption1": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "artist": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genCaption2": "{artist} just dropped \"{title}\" – press play and tell me what you think. {link}",
+  "@genCaption2": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "artist": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genCaption3": "\"{title}\" is here. Made with love, made for you. Stream it now. {link}",
+  "@genCaption3": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genAnnouncement1": "Big news: my new {kind} \"{title}\" drops {date}. Mark the date and get ready! {link}",
+  "@genAnnouncement1": {
+    "placeholders": {
+      "kind": {
+        "type": "String"
+      },
+      "title": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genAnnouncement2": "It's official – \"{title}\" by {artist} arrives {date}. Turn on notifications so you don't miss it. {link}",
+  "@genAnnouncement2": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "artist": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "genAnnouncementNoDate": "Coming soon: \"{title}\" by {artist}. Stay tuned – the countdown starts now. {link}",
+  "@genAnnouncementNoDate": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "artist": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "kindSingle": "single",
+  "genBioIntro": "{name} is a {roles}{location}.",
+  "@genBioIntro": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "roles": {
+        "type": "String"
+      },
+      "location": {
+        "type": "String"
+      }
+    }
+  },
+  "genBioBasedIn": ", based in {place}",
+  "@genBioBasedIn": {
+    "placeholders": {
+      "place": {
+        "type": "String"
+      }
+    }
+  },
+  "genBioExperience": "With {years} years of experience, {name} works across {genres}.",
+  "@genBioExperience": {
+    "placeholders": {
+      "years": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "genres": {
+        "type": "String"
+      }
+    }
+  },
+  "genBioGenres": "{name}'s sound blends {genres}.",
+  "@genBioGenres": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "genres": {
+        "type": "String"
+      }
+    }
+  },
+  "genBioCredits": "Selected work: {credits}.",
+  "@genBioCredits": {
+    "placeholders": {
+      "credits": {
+        "type": "String"
+      }
+    }
+  },
+  "genBioInstruments": "Plays {instruments}.",
+  "@genBioInstruments": {
+    "placeholders": {
+      "instruments": {
+        "type": "String"
+      }
+    }
+  },
+  "genBioOpen": "Open to collaborations – reach out via SplitSure.",
+  "genProjectPromo": "Working on \"{title}\"{genre}. {description} Follow the journey!",
+  "@genProjectPromo": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "genre": {
+        "type": "String"
+      },
+      "description": {
+        "type": "String"
+      }
+    }
+  },
+  "andWord": "and",
+  "notifOppRecommendedTitle": "New opportunity for you",
+  "notifOppRecommendedBody": "\"{title}\" matches your Music Passport.",
+  "@notifOppRecommendedBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "notifAppReceivedTitle": "New application",
+  "notifAppReceivedBody": "{name} applied to \"{title}\".",
+  "@notifAppReceivedBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "notifAppUnderReviewTitle": "Application under review",
+  "notifAppShortlistedTitle": "You've been shortlisted!",
+  "notifAppAcceptedTitle": "Application accepted",
+  "notifAppRejectedTitle": "Application update",
+  "notifAppStatusBody": "\"{title}\"",
+  "@notifAppStatusBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "notifAppRejectedBody": "Your application to \"{title}\" wasn't selected this time.",
+  "@notifAppRejectedBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "notifWorkspaceTitle": "DealFlow workspace ready",
+  "notifWorkspaceBody": "Agree on roles and splits for \"{title}\".",
+  "@notifWorkspaceBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "notifMemberAddedTitle": "You were added to a collaboration",
+  "notifTermsUpdatedTitle": "Terms updated",
+  "notifTermsUpdatedBody": "New terms were proposed for \"{title}\". Review and agree.",
+  "@notifTermsUpdatedBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "notifPaymentSuccessTitle": "Payment successful",
+  "notifPaymentSuccessBody": "{amount} FCFA received. Thank you!",
+  "@notifPaymentSuccessBody": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "notifPaymentFailedTitle": "Payment failed",
+  "notifPaymentFailedBody": "Your {amount} FCFA payment didn't go through. Nothing was charged – you can try again.",
+  "@notifPaymentFailedBody": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "notifProActivatedTitle": "Pro activated",
+  "notifProActivatedBody": "Unlimited posts, agreements and Reach are now unlocked.",
+  "receiptTitle": "PAYMENT RECEIPT",
+  "receiptNumber": "Receipt no. {number}",
+  "@receiptNumber": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "receiptPaid": "PAID",
+  "receiptBilledTo": "Billed to",
+  "receiptPaymentDetails": "Payment details",
+  "receiptReason": "Reason for payment",
+  "receiptAmount": "Amount",
+  "receiptTotalPaid": "Total paid",
+  "receiptTransactionId": "Transaction ID",
+  "receiptReference": "SplitSure reference",
+  "receiptDate": "Date of transaction",
+  "receiptPaymentMethod": "Payment method",
+  "receiptPhoneUsed": "Phone number used",
+  "receiptAccountType": "Current account type",
+  "receiptCustomerName": "Name",
+  "receiptDescPro": "SplitSure Pro upgrade (one-time)",
+  "receiptDescAgreement": "Final agreement generation",
+  "receiptThanks": "Thank you for using SplitSure.",
+  "receiptFooterNote": "This receipt was generated electronically and is valid without a signature.",
+  "receiptIssuedOn": "Issued {date}",
+  "@receiptIssuedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "downloadReceipt": "Download receipt",
+  "receiptError": "Could not create the receipt: {error}",
+  "@receiptError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sentForReviewEmailed": "Agreement sent for review. {count} collaborator(s) were e-mailed.",
+  "@sentForReviewEmailed": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "newVersionSentEmailed": "New version sent. {count} collaborator(s) were e-mailed.",
+  "@newVersionSentEmailed": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "continueWithGoogle": "Continue with Google",
+  "signUpWithGoogle": "Sign up with Google",
+  "orDivider": "or",
+  "googleSignInUnavailable": "Google sign-in isn't available yet. Please use your e-mail and password for now.",
+  "googleSignInFailed": "Google sign-in failed: {error}",
+  "@googleSignInFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "acceptTermsFirst": "Please accept the terms and conditions first.",
+  "planBadgeBasic": "BASIC",
+  "planBadgeTooltipBasic": "Basic plan – tap to see Pro",
+  "planBadgeTooltipPro": "Pro plan active",
+  "reachHeadlineBy": "🎵 \"{title}\" by {artist} is out now!",
+  "@reachHeadlineBy": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "artist": {
+        "type": "String"
+      }
+    }
+  },
+  "reachLinkInBio": "Link in bio",
+  "reachPostTitle": "Post to your socials",
+  "reachPostHint": "Each platform gets its own caption. On a phone, Share opens the app with the video and caption ready; on a computer the caption is copied, the video downloaded and the upload page opened.",
+  "reachShare": "Share",
+  "reachCopyCaption": "Copy caption",
+  "reachLinked": "Linked",
+  "reachOpenMyPage": "Open my page",
+  "reachSharedToApp": "Caption copied – finish posting in the app.",
+  "reachOpenedWeb": "Caption copied. Paste it on the page that just opened (the video was downloaded if needed).",
+  "reachNeedsVideo": "Create the promo video above first – {platform} posts need a video.",
+  "@reachNeedsVideo": {
+    "placeholders": {
+      "platform": {
+        "type": "String"
+      }
+    }
+  },
+  "reachContentPack": "Download content pack",
+  "reachContentPackHint": "Video + a text file with every caption, to post by hand.",
+  "reachContentPackDone": "Content pack downloaded.",
+  "reachRegenerate": "Regenerate",
+  "reachPreviewCaption": "Preview caption",
+  "forgotTitle": "Forgot your password?",
+  "forgotSubtitle": "Enter the email you use for SplitSure. We'll send you a reset code and a secure link.",
+  "forgotSend": "Send reset code",
+  "forgotRemembered": "Remembered it?",
+  "codeTitle": "Check your email",
+  "codeSubtitle": "We sent a reset code to {email}. Enter it below, or simply tap the link in that email.",
+  "@codeSubtitle": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "codeLabel": "Reset code",
+  "codeVerify": "Verify code",
+  "codeResend": "Resend code",
+  "codeResendIn": "Resend in {seconds}s",
+  "@codeResendIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "codeSent": "A new code is on its way.",
+  "codeInvalid": "That code is wrong or has expired. Use the latest email, or resend a new code.",
+  "codeChangeEmail": "Use a different email",
+  "codeSpamHint": "Can't find it? Check your spam folder.",
+  "newPassTitle": "Create a new password",
+  "newPassSubtitle": "Choose a strong password you haven't used before.",
+  "newPassLabel": "New password",
+  "newPassConfirm": "Confirm new password",
+  "newPassSave": "Update password",
+  "passMismatch": "Passwords don't match",
+  "passTooShort": "Use at least 8 characters",
+  "passStrength": "Strength: {level}",
+  "@passStrength": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "passWeak": "Weak",
+  "passFair": "Fair",
+  "passStrong": "Strong",
+  "passwordUpdatedTitle": "Password updated",
+  "passwordUpdatedBody": "Your password has been changed. Use it the next time you sign in.",
+  "continueToApp": "Continue to SplitSure",
+  "tooManyRequests": "Please wait a moment before requesting another code.",
+  "termsTitle": "Terms & Conditions",
+  "termsLastUpdated": "Last updated {date}",
+  "@termsLastUpdated": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "termsIntro": "Please read these terms carefully. They explain your rights and responsibilities when you use SplitSure.",
+  "termsContents": "Contents",
+  "termsAgree": "I agree to the terms",
+  "termsReadLink": "Read the Terms & Conditions",
+  "termsBackToTop": "Back to top",
+  "approveTitle": "Review & sign the agreement",
+  "approveIntro": "{owner} invites you to approve the split agreement for “{song}”.",
+  "@approveIntro": {
+    "placeholders": {
+      "owner": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "approveYourShare": "Your share",
+  "approveYourRole": "Your role",
+  "approveParties": "All parties",
+  "approveLegal": "By tapping “Approve & sign” you accept these terms. Your electronic signature code is recorded with the date and printed on the agreement document.",
+  "approveButton": "Approve & sign",
+  "approveChanges": "Request changes or decline",
+  "approveSignedTitle": "Signed!",
+  "approveSignedBody": "Your approval is recorded. This signature code now appears on the agreement document. We also e-mailed you a copy.",
+  "approveAlreadySigned": "You already signed this agreement.",
+  "approveAllSigned": "Every party has approved – the agreement is complete.",
+  "approveWaitingOthers": "Waiting for the other parties to approve.",
+  "approveInvalid": "This approval link is not valid. Open the latest e-mail from SplitSure.",
+  "approveExpired": "This approval link has expired. Ask the creator to send the agreement again.",
+  "approveNewerVersion": "This agreement has been updated since this e-mail. Use the link in the newest e-mail.",
+  "approveClosed": "This agreement is no longer open for approval.",
+  "approveOpenApp": "Open SplitSure",
+  "signatureCode": "Signature code",
+  "signedViaEmail": "Signed electronically by e-mail",
+  "signedViaApp": "Signed electronically in SplitSure",
+  "pdfSignedOn": "Signed {date}",
+  "@pdfSignedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "planAgreementLimitBody": "On the Basic plan your first agreement document is free; each extra one costs 50 FCFA to preview and download. Pro includes them all.",
+  "verifyTitle": "Confirm your email",
+  "verifySubtitle": "We've sent a 6-digit code to {email}. Enter it below to confirm your email and activate your SplitSure account.",
+  "@verifySubtitle": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "verifyButton": "Activate my account",
+  "verifyFrom": "The email comes from SplitSure.",
+  "verifySuccessTitle": "Email confirmed!",
+  "verifySuccessBody": "Your account is active. Let's pick your plan.",
+  "verifyWrongEmail": "Wrong email? Sign up again",
+  "verifyStepAccount": "Account",
+  "verifyStepVerify": "Verify",
+  "verifyStepPlan": "Plan",
+  "verifyNotConfirmed": "Please confirm your email first. We've sent you a new code.",
+  "verifyAlreadyConfirmed": "This email is already confirmed. Please sign in.",
+  "passportGateTitle": "View {name}'s Music Passport",
+  "@passportGateTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "passportGateBody": "{name} shared their Music Passport with you on SplitSure. Create a free account (or sign in) to see their full profile, portfolio and contact details.",
+  "@passportGateBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "passportGateCreate": "Create a free account",
+  "passportGateSignIn": "I already have an account",
+  "passportGateBack": "You'll come straight back to this passport.",
+  "passportGatePerk1": "Full profile, skills and genres",
+  "passportGatePerk2": "Portfolio and released work",
+  "passportGatePerk3": "Contact and collaborate safely",
+  "passportGateLocked": "Members only",
+  "uploadingPercent": "Uploading… {percent}%",
+  "@uploadingPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "videoPreparing": "Getting your song and artwork ready…",
+  "videoUploading": "Saving your video… {percent}%",
+  "@videoUploading": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "videoSavedLocallyHint": "You can watch it now – it is being saved in the background.",
+  "audienceAndRelease": "Audience & release",
+  "witnessConfirmed": "Witness confirmed",
+  "witnessDeclined": "Witness declined",
+  "witnessWaiting": "Waiting for the witness to confirm",
+  "witnessCode": "Witness code",
+  "witnessResponseNeeded": "You are the witness of this agreement",
+  "witnessResponseIntro": "Confirm that you witnessed this agreement between the collaborators below, or decline if you did not.",
+  "witnessConfirmButton": "Confirm as witness",
+  "witnessConfirmQuestion": "Confirm that you witnessed this agreement? Your witness code will be printed on the document.",
+  "witnessConfirmedToast": "You confirmed as witness.",
+  "witnessDeclinedToast": "You declined to witness this agreement.",
+  "witnessDeclineTitle": "Decline as witness?",
+  "witnessDeclineQuestion": "The creator will be told that you did not witness this agreement.",
+  "witnessApproveTitle": "Confirm as witness",
+  "witnessApproveIntro": "{owner} named you as the witness of the agreement for \"{song}\".",
+  "@witnessApproveIntro": {
+    "placeholders": {
+      "owner": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "witnessApproveLegal": "By confirming, you attest that you witnessed this agreement between the parties listed above. No account is needed.",
+  "witnessSignedTitle": "Witness confirmation recorded",
+  "witnessSignedBody": "Thank you. Your witness code below is printed on the agreement document.",
+  "witnessDeclinedTitle": "You declined to witness this agreement",
+  "witnessDeclinedBody": "The creator of the agreement has been notified.",
+  "witnessEmailHint": "The witness receives an e-mail to confirm or decline the agreement, even without a SplitSure account.",
+  "notifWitnessInvitedTitle": "You are asked to be a witness",
+  "notifWitnessInvitedBody": "Confirm or decline the agreement for \"{song}\".",
+  "@notifWitnessInvitedBody": {
+    "placeholders": {
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "notifWitnessConfirmedTitle": "Witness confirmed",
+  "notifWitnessConfirmedBody": "{name} confirmed as witness of \"{song}\".",
+  "@notifWitnessConfirmedBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "notifWitnessDeclinedTitle": "Witness declined",
+  "notifWitnessDeclinedBody": "{name} declined to witness \"{song}\".",
+  "@notifWitnessDeclinedBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "song": {
+        "type": "String"
+      }
+    }
+  },
+  "successfulCollaborations": "Successful collaborations",
+  "successfulCollaborationsHint": "Agreements approved by every party",
+  "noSuccessfulCollaborations": "No successful collaborations yet. They appear here once every party has approved an agreement.",
+  "acceptedCollaborations": "Accepted collaborations",
+  "acceptedCollaborationsHint": "Opportunities where your application was accepted",
+  "noAcceptedCollaborations": "None yet. When you apply to an opportunity in the Hub and are accepted, it shows here.",
+  "supportChatTooltip": "Chat with SplitSure support on WhatsApp",
+  "supportChatTitle": "Need help?",
+  "supportChatSubtitle": "Chat with support",
+  "logoutTitle": "Log out of SplitSure?",
+  "stayLoggedIn": "Stay",
+  "welcomeBackPlain": "Welcome back!",
+  "greatToSeeYou": "Great to see you again!",
+  "witnessNotAskedYet": "The witness hasn't been asked to confirm this agreement yet.",
+  "askWitnessButton": "Ask the witness to confirm",
+  "askWitnessConfirm": "The witness will be asked to confirm or decline this agreement. It will only be fully accepted once they confirm.",
+  "witnessAskedEmailed": "The witness has been e-mailed and notified.",
+  "witnessAskedInApp": "The witness has been asked. They'll be e-mailed once e-mail sending is set up.",
+  "verifySendFailed": "We couldn't send the code right now. Tap \"Resend code\" in a moment.",
+  "aboutTitle": "About SplitSure",
+  "aboutTagline": "Protect your music. Promote your sound.",
+  "aboutWhatTitle": "What is SplitSure?",
+  "aboutWhatBody": "SplitSure is the home of music collaboration. Agree on who did what and who earns what, sign it together, and keep a clear record for every song – then promote your release and grow your network.",
+  "aboutCameroonTitle": "Made for Cameroon",
+  "aboutCameroonBody": "SplitSure is built first and foremost for Cameroonian artists, producers, songwriters and music professionals – from Douala to Yaoundé, Bamenda, Bafoussam and beyond – so that every collaboration is fair, documented and respected.",
+  "aboutCameroonPay": "MTN Mobile Money & Orange Money",
+  "aboutCameroonLang": "English & Français",
+  "aboutCameroonPrice": "Prices in FCFA",
+  "aboutFeaturesTitle": "What you can do",
+  "aboutFeatProtect": "Split agreements every collaborator signs",
+  "aboutFeatPassport": "Your professional music identity",
+  "aboutFeatHub": "Find and post collaborations",
+  "aboutFeatReach": "Promo videos and captions for your release",
+  "aboutFeatDealflow": "Agree on terms before you sign",
+  "aboutPromiseTitle": "Our promise",
+  "aboutPromiseBody": "Your music stays yours. Every signature is recorded with a unique code, every version is kept, and nothing is shared publicly unless you choose to.",
+  "aboutSupportTitle": "Contact support",
+  "aboutSupportBody": "A question, a problem or an idea? Write to us by e-mail – we usually reply within 24 hours.",
+  "aboutSupportCopied": "E-mail address copied",
+  "aboutMadeWithLove": "Made with love in Cameroon",
+  "previewPdfFeeSubtitle": "{amount} to preview and download this agreement",
+  "@previewPdfFeeSubtitle": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "previewPdfFirstFree": "Your first agreement is free",
+  "previewPdfUnlocked": "Paid – preview and download unlocked",
+  "finalAgreementFirstFree": "Free – your first agreement",
+  "payToPreviewTitle": "Unlock this agreement document"
+}

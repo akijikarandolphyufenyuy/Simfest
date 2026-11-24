@@ -1,0 +1,23 @@
+# Payment receipts
+receiptTitle | PAYMENT RECEIPT | REÇU DE PAIEMENT
+receiptNumber | Receipt no. {number} | Reçu n° {number} | number
+receiptPaid | PAID | PAYÉ
+receiptBilledTo | Billed to | Facturé à
+receiptPaymentDetails | Payment details | Détails du paiement
+receiptReason | Reason for payment | Motif du paiement
+receiptAmount | Amount | Montant
+receiptTotalPaid | Total paid | Total payé
+receiptTransactionId | Transaction ID | ID de transaction
+receiptReference | SplitSure reference | Référence SplitSure
+receiptDate | Date of transaction | Date de la transaction
+receiptPaymentMethod | Payment method | Moyen de paiement
+receiptPhoneUsed | Phone number used | Numéro utilisé
+receiptAccountType | Current account type | Type de compte actuel
+receiptCustomerName | Name | Nom
+receiptDescPro | SplitSure Pro upgrade (one-time) | Passage à SplitSure Pro (paiement unique)
+receiptDescAgreement | Final agreement generation | Génération de l'accord final
+receiptThanks | Thank you for using SplitSure. | Merci d'utiliser SplitSure.
+receiptFooterNote | This receipt was generated electronically and is valid without a signature. | Ce reçu a été généré électroniquement et est valable sans signature.
+receiptIssuedOn | Issued {date} | Émis le {date} | date
+downloadReceipt | Download receipt | Télécharger le reçu
+receiptError | Could not create the receipt: {error} | Impossible de créer le reçu : {error} | error

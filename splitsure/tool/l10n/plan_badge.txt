@@ -1,0 +1,9 @@
+# Basic / Pro naming + header badge
+freePlan | Basic Plan | Formule Basique
+continueWithFree | Continue with Basic | Continuer avec Basique
+freePlanExplain | You're on the Basic plan. Upgrade any time for unlimited agreements, campaigns and projects. | Vous utilisez la formule Basique. Passez à Pro à tout moment pour des accords, campagnes et projets illimités.
+freePostsRemaining | Basic plan: {count} post left | Formule Basique : {count} annonce restante | count:int
+planBadgeBasic | BASIC | BASIQUE
+planBadgePro | PRO | PRO
+planBadgeTooltipBasic | Basic plan – tap to see Pro | Formule Basique – touchez pour voir Pro
+planBadgeTooltipPro | Pro plan active | Formule Pro active

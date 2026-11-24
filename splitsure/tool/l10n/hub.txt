@@ -1,0 +1,137 @@
+# Phase 4 – Opportunity Hub, Phase 5 – DealFlow
+opportunityHub | Opportunity Hub | Opportunity Hub
+navHub | Hub | Hub
+hubTagline | Find collaborators and music projects | Trouvez des collaborateurs et des projets musicaux
+hubDiscover | Discover | Découvrir
+hubMyPosts | My posts | Mes annonces
+hubMyApplications | My applications | Mes candidatures
+recommendedForYou | Recommended for you | Recommandé pour vous
+allOpportunities | All opportunities | Toutes les opportunités
+searchOpportunities | Search opportunities | Rechercher des opportunités
+filters | Filters | Filtres
+clearFilters | Clear filters | Effacer les filtres
+filterRole | Role | Rôle
+filterGenre | Genre | Genre
+filterLocation | Location | Lieu
+filterCompensation | Compensation | Rémunération
+filterCategory | Category | Catégorie
+filterDate | Posted | Publiée
+anyTime | Any time | N'importe quand
+last24h | Last 24 hours | Dernières 24 heures
+lastWeek | Last 7 days | 7 derniers jours
+lastMonth | Last 30 days | 30 derniers jours
+remoteOk | Remote OK | À distance possible
+noOpportunities | No opportunities match yet. | Aucune opportunité pour le moment.
+noOpportunitiesHint | Try other filters, or post your own opportunity. | Essayez d'autres filtres ou publiez votre propre opportunité.
+postOpportunity | Post an opportunity | Publier une opportunité
+editOpportunity | Edit opportunity | Modifier l'opportunité
+opportunityTitle | Opportunity title | Titre de l'opportunité
+opportunityTitleHint | e.g. Looking for a vocalist for an Afrobeats single | ex. Recherche une voix pour un single Afrobeats
+projectDescription | Project description | Description du projet
+projectCategory | Project category | Catégorie du projet
+categoryRecording | Recording | Enregistrement
+categorySongwriting | Songwriting | Écriture
+categoryProduction | Production | Production
+categoryPerformance | Performance | Performance
+categoryVideo | Music video | Clip vidéo
+categoryLive | Live / events | Live / événements
+categoryMarketing | Marketing & promotion | Marketing et promotion
+categoryBusiness | Business & management | Business et management
+categoryOther | Other | Autre
+requiredRoles | Required role(s) | Rôle(s) recherché(s)
+requiredSkills | Required skills | Compétences requises
+projectLocation | Project location | Lieu du projet
+remoteCollaboration | Remote collaboration possible | Collaboration à distance possible
+collaborationType | Collaboration type | Type de collaboration
+compensationArrangement | Compensation arrangement | Rémunération / conditions
+compensationHint | e.g. 50,000 FCFA, or 20% of master royalties | ex. 50 000 FCFA, ou 20 % des royalties du master
+expectedDeliverables | Expected deliverables | Livrables attendus
+projectDeadline | Project deadline | Date limite du projet
+applicationDeadline | Application deadline | Date limite de candidature
+positionsNeeded | Number of collaborators needed | Nombre de collaborateurs recherchés
+referenceLinks | Reference files or links | Fichiers ou liens de référence
+additionalRequirements | Additional requirements | Exigences supplémentaires
+restrictToRoles | Only show to people with these roles | Visible uniquement par ces rôles
+restrictToRolesHint | Recommended: your opportunity reaches the right people and stays private from others. | Recommandé : votre opportunité atteint les bonnes personnes et reste privée pour les autres.
+publishOpportunity | Publish opportunity | Publier l'opportunité
+opportunityPublished | Opportunity published | Opportunité publiée
+opportunityUpdated | Opportunity updated | Opportunité mise à jour
+freePostUsedTitle | Free post used | Annonce gratuite utilisée
+freePostUsedBody | Free accounts include one opportunity post. Upgrade to Pro for unlimited posts. | Les comptes gratuits incluent une annonce. Passez à Pro pour des annonces illimitées.
+freePostsRemaining | Free plan: {count} post left | Formule gratuite : {count} annonce restante | count:int
+statusOpen | Open | Ouverte
+statusClosed | Closed | Fermée
+closeOpportunity | Close | Fermer
+reopenOpportunity | Reopen | Rouvrir
+deleteOpportunity | Delete opportunity | Supprimer l'opportunité
+deleteOpportunityConfirm | Delete this opportunity and its applications? This can't be undone, and your free post allowance isn't restored. | Supprimer cette opportunité et ses candidatures ? Action irréversible, et votre annonce gratuite n'est pas restituée.
+postedBy | Posted by | Publiée par
+publishedOn | Published {date} | Publiée le {date} | date
+deadlineOn | Deadline {date} | Date limite {date} | date
+applyBy | Apply by {date} | Postuler avant le {date} | date
+positionsCount | {count, plural, =1{1 position} other{{count} positions}} | {count, plural, =1{1 poste} other{{count} postes}} | count:int
+applicationsCount | {count, plural, =0{No applications yet} =1{1 application} other{{count} applications}} | {count, plural, =0{Aucune candidature} =1{1 candidature} other{{count} candidatures}} | count:int
+applyNow | Apply now | Postuler
+shareOpportunity | Share | Partager
+alreadyApplied | You applied | Vous avez postulé
+applyTitle | Apply with your Music Passport | Postuler avec votre Music Passport
+applicationMessage | Short message to the owner | Court message au porteur du projet
+applicationMessageHint | Why are you a good fit? | Pourquoi êtes-vous la bonne personne ?
+supportingLinks | Portfolio links or supporting material | Liens de portfolio ou éléments complémentaires
+submitApplication | Submit application | Envoyer la candidature
+applicationSent | Application sent | Candidature envoyée
+opportunityClosedNotice | This opportunity is closed. | Cette opportunité est fermée.
+yourOwnOpportunity | This is your opportunity. | C'est votre opportunité.
+applicationsTitle | Applications | Candidatures
+noApplicationsYet | No applications yet. | Aucune candidature pour l'instant.
+appStatusPending | Pending | En attente
+appStatusUnderReview | Under review | En cours d'examen
+appStatusShortlisted | Shortlisted | Présélectionné
+appStatusAccepted | Accepted | Accepté
+appStatusRejected | Rejected | Refusé
+appStatusWithdrawn | Withdrawn | Retiré
+markUnderReview | Review | Examiner
+shortlist | Shortlist | Présélectionner
+accept | Accept | Accepter
+reject | Reject | Refuser
+withdraw | Withdraw | Retirer
+withdrawConfirm | Withdraw your application? | Retirer votre candidature ?
+appliedOn | Applied {date} | Postulé le {date} | date
+noMyApplications | You haven't applied to any opportunity yet. | Vous n'avez encore postulé à aucune opportunité.
+noMyPosts | You haven't posted any opportunity yet. | Vous n'avez encore publié aucune opportunité.
+startWorkspace | Open DealFlow workspace | Ouvrir l'espace DealFlow
+dealflow | DealFlow | DealFlow
+dealflowTagline | Agree on roles and splits, then protect it | Accordez-vous sur les rôles et les parts, puis protégez-le
+workspaces | Workspaces | Espaces de travail
+noWorkspaces | Accept an applicant to start a DealFlow workspace. | Acceptez un candidat pour démarrer un espace DealFlow.
+wsStatusNegotiating | Negotiating | En négociation
+wsStatusAgreed | Terms agreed | Termes acceptés
+wsStatusInProtect | In Protect | Dans Protect
+wsStatusActive | Active | Active
+wsStatusCompleted | Completed | Terminée
+wsStatusCancelled | Cancelled | Annulée
+projectOwner | Project owner | Porteur du projet
+participants | Participants | Participants
+responsibilities | Responsibilities | Responsabilités
+contributionPercent | Contribution % | Contribution %
+proposeTerms | Propose terms | Proposer des termes
+editTerms | Edit terms | Modifier les termes
+paymentArrangement | Payment arrangement | Modalités de paiement
+importantDates | Important dates | Dates importantes
+discussion | Discussion | Discussion
+writeMessage | Write a message… | Écrire un message…
+send | Send | Envoyer
+iAgree | I agree to these terms | J'accepte ces termes
+withdrawAgreement | Withdraw my agreement | Retirer mon accord
+agreedBadge | Agreed | D'accord
+notAgreedYet | Not agreed yet | Pas encore d'accord
+totalPercent | Total: {percent}% | Total : {percent} % | percent
+totalMustBe100 | Contributions must add up to 100% before everyone can agree. | Les contributions doivent totaliser 100 % avant que tous puissent accepter.
+continueInProtect | Continue in Protect | Continuer dans Protect
+continueInProtectHint | Everyone agreed. Create the agreement in Protect – it's pre-filled with these terms. | Tout le monde est d'accord. Créez l'accord dans Protect : il est pré-rempli avec ces termes.
+openAgreement | Open agreement | Ouvrir l'accord
+markCompleted | Mark completed | Marquer comme terminée
+markActive | Mark active | Marquer comme active
+cancelWorkspace | Cancel collaboration | Annuler la collaboration
+termsLocked | Terms are locked because the agreement is in Protect. | Les termes sont verrouillés car l'accord est dans Protect.
+workspaceOpened | Workspace ready | Espace prêt

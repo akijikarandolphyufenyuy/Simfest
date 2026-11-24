@@ -1,0 +1,6 @@
+# Google sign-in
+continueWithGoogle | Continue with Google | Continuer avec Google
+signUpWithGoogle | Sign up with Google | S'inscrire avec Google
+orDivider | or | ou
+googleSignInUnavailable | Google sign-in isn't available yet. Please use your e-mail and password for now. | La connexion avec Google n'est pas encore disponible. Utilisez votre e-mail et votre mot de passe pour le moment.
+googleSignInFailed | Google sign-in failed: {error} | Échec de la connexion avec Google : {error} | error

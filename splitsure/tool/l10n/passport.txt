@@ -1,0 +1,122 @@
+# Phase 3 – Music Passport
+musicPassport | Music Passport | Music Passport
+passportTagline | Your professional music identity | Votre identité professionnelle dans la musique
+createPassport | Create my Music Passport | Créer mon Music Passport
+createPassportIntro | One professional profile used across SplitSure: showcase your roles, skills and work, apply to opportunities and get discovered. | Un seul profil professionnel pour tout SplitSure : présentez vos rôles, compétences et réalisations, postulez aux opportunités et faites-vous découvrir.
+editPassport | Edit passport | Modifier le passport
+passportStepIdentity | Identity | Identité
+passportStepProfessional | Professional | Profil pro
+passportStepPortfolio | Portfolio | Portfolio
+passportStepReview | Review | Aperçu
+stageName | Professional / stage name | Nom professionnel / de scène
+fullName | Full name | Nom complet
+primaryRole | Primary role | Rôle principal
+secondaryRoles | Secondary roles (optional) | Rôles secondaires (facultatif)
+professionalBio | Short professional biography | Courte biographie professionnelle
+contactEmail | Contact email | E-mail de contact
+contactPhone | Contact phone | Téléphone de contact
+preferredContact | Preferred contact method | Moyen de contact préféré
+contactEmailMethod | Email | E-mail
+contactPhoneMethod | Phone call | Appel
+contactWhatsapp | WhatsApp | WhatsApp
+contactInApp | Through SplitSure | Via SplitSure
+skillsSpecialisations | Skills & specialisations | Compétences et spécialisations
+yearsExperience | Years of experience | Années d'expérience
+genres | Genres | Genres
+instruments | Instruments played | Instruments joués
+languages | Languages | Langues
+availability | Availability for collaboration | Disponibilité pour collaborer
+availabilityAvailable | Available | Disponible
+availabilityLimited | Limited availability | Disponibilité limitée
+availabilityUnavailable | Not available | Indisponible
+preferredArrangements | Preferred collaboration arrangements | Types de collaboration préférés
+operatingLocation | Location of operation | Zone d'activité
+operatingLocationHint | e.g. Douala, Yaoundé, remote | ex. Douala, Yaoundé, à distance
+typeAndEnter | Type and press Enter | Tapez puis appuyez sur Entrée
+externalLinks | Links | Liens
+personalWebsite | Website | Site web
+portfolioItems | Portfolio & experience | Portfolio et expérience
+addPortfolioItem | Add to portfolio | Ajouter au portfolio
+editPortfolioItem | Edit portfolio item | Modifier l'élément
+noPortfolioItems | Add your projects, releases, credits, videos and awards. | Ajoutez vos projets, sorties, crédits, clips et distinctions.
+portfolioKind | Type | Type
+kindProject | Project | Projet
+kindRelease | Released song | Titre sorti
+kindAlbum | Album / EP | Album / EP
+kindProductionCredit | Production credit | Crédit de production
+kindWritingCredit | Writing credit | Crédit d'écriture
+kindCollaboration | Collaboration | Collaboration
+kindVideo | Music video | Clip vidéo
+kindAward | Achievement / award | Distinction / prix
+kindExperience | Professional experience | Expérience professionnelle
+itemTitle | Title | Titre
+itemRoleOptional | Your role (optional) | Votre rôle (facultatif)
+itemYear | Year | Année
+itemLink | Link (Spotify, YouTube…) | Lien (Spotify, YouTube…)
+itemDescription | Description | Description
+addImage | Add image | Ajouter une image
+showOnPublicPassport | Show on my public passport | Afficher sur mon passport public
+visibilitySettings | Public visibility | Visibilité publique
+visibilityHint | Choose what visitors of your public passport can see. | Choisissez ce que les visiteurs de votre passport public peuvent voir.
+visibilityContact | Contact details | Coordonnées
+visibilityLocation | Location | Localisation
+visibilityPortfolio | Portfolio | Portfolio
+visibilityLinks | Links | Liens
+visibilityExperience | Years of experience | Années d'expérience
+passportUrl | Public link | Lien public
+passportSlugHint | letters, numbers and dashes | lettres, chiffres et tirets
+slugTaken | This link is already taken. | Ce lien est déjà pris.
+slugInvalid | Use 3–40 lowercase letters, numbers or dashes. | Utilisez 3 à 40 lettres minuscules, chiffres ou tirets.
+saveDraft | Save draft | Enregistrer le brouillon
+publishPassport | Publish passport | Publier le passport
+unpublishPassport | Unpublish | Dépublier
+passportPublished | Your Music Passport is live! | Votre Music Passport est en ligne !
+passportSaved | Passport saved | Passport enregistré
+passportDraft | Draft – not public yet | Brouillon – pas encore public
+passportLive | Published | Publié
+previewPublic | Preview public profile | Voir le profil public
+sharePassport | Share passport | Partager le passport
+linkCopied | Link copied | Lien copié
+collaborate | Collaborate | Collaborer
+contact | Contact | Contacter
+viewPortfolio | View portfolio | Voir le portfolio
+viewPassport | View Music Passport | Voir le Music Passport
+passportNotFound | This Music Passport doesn't exist or isn't public. | Ce Music Passport n'existe pas ou n'est pas public.
+yearsExperienceValue | {count} years of experience | {count} ans d'expérience | count:int
+noContactPublic | This member shares contact details only through SplitSure. Sign in and apply to one of their opportunities to collaborate. | Ce membre partage ses coordonnées uniquement via SplitSure. Connectez-vous et postulez à l'une de ses opportunités pour collaborer.
+openOpportunitiesBy | Open opportunities by {name} | Opportunités ouvertes de {name} | name
+noOpenOpportunitiesBy | {name} has no open opportunities right now. | {name} n'a aucune opportunité ouverte pour le moment. | name
+signInToCollaborate | Sign in to collaborate | Connectez-vous pour collaborer
+joinSplitSure | Join SplitSure | Rejoindre SplitSure
+passportRequiredTitle | Music Passport needed | Music Passport requis
+passportRequiredBody | Publish your Music Passport first – it's your professional identity for posting and applying. | Publiez d'abord votre Music Passport : c'est votre identité professionnelle pour publier et postuler.
+stepOf | Step {current} of {total} | Étape {current} sur {total} | current:int,total:int
+back | Back | Retour
+photo | Photo | Photo
+changePhoto | Change photo | Changer la photo
+requiredField | Required | Obligatoire
+rolePassportSinger | Singer / Vocalist | Chanteur / Vocaliste
+rolePassportRapper | Rapper | Rappeur
+rolePassportProducer | Music Producer | Producteur de musique
+rolePassportSongwriter | Songwriter | Auteur-compositeur
+rolePassportComposer | Composer | Compositeur
+rolePassportSoundEngineer | Sound Engineer | Ingénieur du son
+rolePassportMixMaster | Mixing & Mastering Engineer | Ingénieur mixage et mastering
+rolePassportInstrumentalist | Instrumentalist | Instrumentiste
+rolePassportDj | DJ | DJ
+rolePassportMusicManager | Music Manager | Manager musical
+rolePassportArtistManager | Artist Manager | Manager d'artiste
+rolePassportLabel | Record Label | Label
+rolePassportPublisher | Music Publisher | Éditeur musical
+rolePassportVideoDirector | Video Director | Réalisateur vidéo
+rolePassportPromoter | Music Promoter | Promoteur musical
+rolePassportDesigner | Graphic Designer | Graphiste
+rolePassportPhotographer | Photographer | Photographe
+rolePassportBusiness | Music Business Professional | Professionnel du business musical
+rolePassportOther | Other | Autre
+arrangementPaid | Paid collaboration | Collaboration rémunérée
+arrangementRevenueShare | Revenue sharing | Partage des revenus
+arrangementRoyaltyShare | Royalty sharing | Partage des royalties
+arrangementPercentage | Percentage-based partnership | Partenariat en pourcentage
+arrangementVoluntary | Voluntary collaboration | Collaboration bénévole
+arrangementNegotiable | Negotiable arrangement | Arrangement négociable

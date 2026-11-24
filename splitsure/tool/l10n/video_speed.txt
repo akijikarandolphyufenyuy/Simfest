@@ -1,0 +1,5 @@
+# Faster promo video: progress phases
+uploadingPercent | Uploading… {percent}% | Envoi… {percent} % | percent:int
+videoPreparing | Getting your song and artwork ready… | Préparation de votre titre et de la pochette…
+videoUploading | Saving your video… {percent}% | Enregistrement de votre vidéo… {percent} % | percent:int
+videoSavedLocallyHint | You can watch it now – it is being saved in the background. | Vous pouvez la regarder dès maintenant – elle est enregistrée en arrière-plan.
